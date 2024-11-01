@@ -1,0 +1,2001 @@
+Appliance,Voltage (V),Power Consumption (W),Daily Usage (hrs),Monthly Usage (%)
+Fan,230,82.12,8.0,19.02
+Air Conditioner,230,1588.76,4.21,40.17
+Refrigerator,230,199.58,24.0,8.23
+LED Bulb,230,15.94,7.9,7.15
+Television,230,98.72,3.09,4.35
+Washing Machine,230,774.87,1.41,3.28
+Microwave Oven,230,886.71,0.23,2.06
+Geyser,230,2956.42,0.99,8.95
+Laptop/Computer,230,391.95,5.21,2.48
+Iron,230,1326.39,0.17,2.05
+Fan,230,71.64,7.33,22.7
+Air Conditioner,230,1867.83,4.43,43.03
+Refrigerator,230,567.05,24.0,8.75
+LED Bulb,230,7.81,4.07,9.74
+Television,230,133.26,4.75,3.01
+Washing Machine,230,928.76,1.19,4.22
+Microwave Oven,230,1137.77,0.22,2.63
+Geyser,230,2263.77,0.76,8.66
+Laptop/Computer,230,235.5,4.57,2.09
+Iron,230,1215.31,0.22,2.72
+Fan,230,82.53,6.68,20.64
+Air Conditioner,230,1982.91,4.67,42.36
+Refrigerator,230,254.39,24.0,9.74
+LED Bulb,230,10.05,4.78,8.83
+Television,230,65.74,4.09,4.76
+Washing Machine,230,829.22,1.04,4.49
+Microwave Oven,230,997.07,0.19,2.55
+Geyser,230,2424.2,0.89,8.57
+Laptop/Computer,230,157.24,5.18,2.94
+Iron,230,1431.61,0.2,2.7
+Fan,230,74.57,7.19,18.84
+Air Conditioner,230,1840.57,5.53,41.18
+Refrigerator,230,575.59,24.0,8.4
+LED Bulb,230,14.43,7.72,8.61
+Television,230,97.22,4.41,3.79
+Washing Machine,230,952.81,1.57,4.81
+Microwave Oven,230,827.17,0.16,2.26
+Geyser,230,2022.77,0.99,9.03
+Laptop/Computer,230,373.84,5.34,2.62
+Iron,230,1056.24,0.21,2.9
+Fan,230,77.55,7.21,16.93
+Air Conditioner,230,1664.54,5.14,49.63
+Refrigerator,230,572.25,24.0,9.14
+LED Bulb,230,10.34,5.93,6.15
+Television,230,125.6,4.22,3.95
+Washing Machine,230,586.07,1.4,3.37
+Microwave Oven,230,1004.19,0.17,2.94
+Geyser,230,2332.24,0.51,9.75
+Laptop/Computer,230,121.11,4.63,2.71
+Iron,230,1480.98,0.2,2.52
+Fan,230,70.08,6.91,19.08
+Air Conditioner,230,1797.05,4.38,47.96
+Refrigerator,230,194.17,24.0,9.18
+LED Bulb,230,7.57,4.85,7.81
+Television,230,93.84,4.28,4.94
+Washing Machine,230,858.26,1.65,3.66
+Microwave Oven,230,840.52,0.21,2.21
+Geyser,230,2081.52,0.79,8.65
+Laptop/Computer,230,95.67,5.16,2.47
+Iron,230,1277.98,0.19,2.74
+Fan,230,73.46,7.67,20.35
+Air Conditioner,230,1599.17,5.04,40.5
+Refrigerator,230,714.74,24.0,9.18
+LED Bulb,230,7.06,5.69,8.77
+Television,230,149.06,3.75,3.24
+Washing Machine,230,927.86,1.67,4.54
+Microwave Oven,230,932.65,0.24,2.39
+Geyser,230,2986.76,0.97,9.4
+Laptop/Computer,230,222.34,5.73,2.85
+Iron,230,1449.91,0.21,2.07
+Fan,230,70.58,7.43,21.07
+Air Conditioner,230,1877.26,5.53,40.69
+Refrigerator,230,247.65,24.0,8.2
+LED Bulb,230,9.53,5.3,7.4
+Television,230,118.42,4.76,3.74
+Washing Machine,230,998.37,1.4,4.22
+Microwave Oven,230,855.13,0.16,2.49
+Geyser,230,3725.01,1.42,8.61
+Laptop/Computer,230,185.58,4.14,2.12
+Iron,230,1426.86,0.18,2.37
+Fan,230,85.45,7.56,18.79
+Air Conditioner,230,1983.61,4.7,44.41
+Refrigerator,230,295.81,24.0,9.37
+LED Bulb,230,8.94,4.55,6.39
+Television,230,101.13,4.87,4.44
+Washing Machine,230,581.68,1.89,3.72
+Microwave Oven,230,852.07,0.2,2.2
+Geyser,230,2864.08,0.79,9.29
+Laptop/Computer,230,299.51,4.82,2.31
+Iron,230,1987.54,0.36,2.58
+Fan,230,70.72,6.1,16.07
+Air Conditioner,230,1968.59,5.14,48.54
+Refrigerator,230,451.15,24.0,9.56
+LED Bulb,230,11.26,4.83,7.82
+Television,230,101.51,3.69,3.62
+Washing Machine,230,1362.04,2.82,3.64
+Microwave Oven,230,805.16,0.22,2.59
+Geyser,230,2862.06,0.73,8.65
+Laptop/Computer,230,71.3,5.85,2.45
+Iron,230,1412.85,0.21,2.59
+Fan,230,70.55,6.51,21.43
+Air Conditioner,230,1834.79,4.86,49.88
+Refrigerator,230,264.91,24.0,8.02
+LED Bulb,230,9.14,4.66,5.48
+Television,230,137.51,4.04,3.9
+Washing Machine,230,761.39,1.61,4.79
+Microwave Oven,230,941.26,0.2,2.05
+Geyser,230,2677.68,0.52,9.88
+Laptop/Computer,230,236.5,5.11,2.72
+Iron,230,1068.07,0.24,2.72
+Fan,230,128.08,11.5,23.84
+Air Conditioner,230,1854.1,4.09,49.56
+Refrigerator,230,1143.17,29.39,9.86
+LED Bulb,230,9.47,4.28,7.68
+Television,230,183.95,6.89,3.5
+Washing Machine,230,800.12,1.1,4.12
+Microwave Oven,230,1153.35,0.16,2.51
+Geyser,230,2687.8,0.56,9.36
+Laptop/Computer,230,82.2,4.04,2.88
+Iron,230,1197.0,0.16,2.22
+Fan,230,71.76,7.32,24.31
+Air Conditioner,230,1573.49,4.99,46.29
+Refrigerator,230,425.36,24.0,9.51
+LED Bulb,230,10.17,5.72,9.73
+Television,230,94.34,3.68,4.28
+Washing Machine,230,667.86,1.04,3.51
+Microwave Oven,230,1589.46,0.36,2.31
+Geyser,230,4064.24,1.26,9.19
+Laptop/Computer,230,306.67,4.8,2.49
+Iron,230,1419.87,0.21,2.9
+Fan,230,83.27,7.29,20.65
+Air Conditioner,230,1802.98,5.82,48.33
+Refrigerator,230,625.06,24.0,9.56
+LED Bulb,230,7.53,4.33,5.42
+Television,230,96.85,3.1,3.98
+Washing Machine,230,768.27,1.17,4.2
+Microwave Oven,230,1029.9,0.19,2.5
+Geyser,230,2990.47,0.91,8.5
+Laptop/Computer,230,168.26,4.84,2.7
+Iron,230,2164.17,0.31,2.04
+Fan,230,78.58,6.33,19.47
+Air Conditioner,230,1522.12,4.41,48.54
+Refrigerator,230,1123.9,31.83,9.08
+LED Bulb,230,9.51,5.72,7.06
+Television,230,114.97,3.24,4.67
+Washing Machine,230,1338.03,2.91,3.04
+Microwave Oven,230,1130.07,0.2,2.39
+Geyser,230,2495.93,0.75,8.03
+Laptop/Computer,230,166.4,5.68,2.59
+Iron,230,1207.42,0.21,2.84
+Fan,230,119.72,10.06,21.02
+Air Conditioner,230,1821.02,4.88,41.96
+Refrigerator,230,1047.22,33.55,9.1
+LED Bulb,230,8.45,5.14,9.09
+Television,230,120.03,3.56,3.59
+Washing Machine,230,968.59,1.17,3.11
+Microwave Oven,230,935.94,0.18,2.05
+Geyser,230,2674.54,0.96,8.46
+Laptop/Computer,230,329.98,5.42,2.66
+Iron,230,1037.67,0.18,2.4
+Fan,230,86.29,7.96,23.34
+Air Conditioner,230,1824.95,4.83,40.97
+Refrigerator,230,719.94,24.0,9.29
+LED Bulb,230,9.56,5.55,6.9
+Television,230,218.83,6.4,3.27
+Washing Machine,230,813.62,1.19,4.2
+Microwave Oven,230,1043.23,0.24,2.92
+Geyser,230,2338.0,0.72,9.53
+Laptop/Computer,230,257.53,4.48,2.52
+Iron,230,1070.01,0.23,2.7
+Fan,230,84.74,6.63,19.96
+Air Conditioner,230,1594.08,4.5,41.34
+Refrigerator,230,384.72,24.0,8.62
+LED Bulb,230,15.87,8.35,9.62
+Television,230,51.42,4.17,4.94
+Washing Machine,230,990.93,1.62,3.21
+Microwave Oven,230,1195.73,0.23,2.84
+Geyser,230,4482.29,1.33,9.05
+Laptop/Computer,230,56.86,4.26,2.68
+Iron,230,1426.94,0.21,2.87
+Fan,230,85.97,7.33,19.34
+Air Conditioner,230,1701.88,5.16,42.94
+Refrigerator,230,522.73,24.0,8.48
+LED Bulb,230,10.15,5.62,5.79
+Television,230,146.01,3.43,3.91
+Washing Machine,230,541.36,1.66,4.79
+Microwave Oven,230,1120.31,0.21,2.6
+Geyser,230,4045.27,1.33,9.78
+Laptop/Computer,230,187.36,4.49,2.81
+Iron,230,1177.75,0.23,2.3
+Fan,230,74.99,6.74,24.63
+Air Conditioner,230,1868.07,5.6,48.82
+Refrigerator,230,1085.47,33.03,8.95
+LED Bulb,230,9.73,5.39,9.15
+Television,230,66.3,4.31,3.89
+Washing Machine,230,858.27,1.09,3.09
+Microwave Oven,230,845.44,0.25,2.22
+Geyser,230,4372.99,1.42,9.72
+Laptop/Computer,230,189.21,5.27,2.01
+Iron,230,1045.62,0.24,2.91
+Fan,230,75.85,6.98,18.43
+Air Conditioner,230,2417.93,7.61,48.84
+Refrigerator,230,319.38,24.0,9.37
+LED Bulb,230,11.02,5.48,7.84
+Television,230,191.0,7.21,4.19
+Washing Machine,230,602.55,1.61,4.61
+Microwave Oven,230,1662.55,0.35,2.3
+Geyser,230,2467.1,0.68,8.55
+Laptop/Computer,230,303.02,4.64,2.6
+Iron,230,1253.23,0.18,2.66
+Fan,230,88.55,7.67,18.82
+Air Conditioner,230,1567.14,5.0,48.17
+Refrigerator,230,601.36,24.0,9.5
+LED Bulb,230,7.02,4.2,8.78
+Television,230,134.39,4.48,3.72
+Washing Machine,230,634.64,1.14,3.68
+Microwave Oven,230,1455.75,0.3,2.33
+Geyser,230,2839.83,0.82,9.24
+Laptop/Computer,230,399.55,5.82,2.81
+Iron,230,1053.96,0.21,2.88
+Fan,230,71.96,6.01,17.3
+Air Conditioner,230,1797.79,4.65,41.68
+Refrigerator,230,1142.38,35.51,9.24
+LED Bulb,230,7.95,4.07,6.24
+Television,230,196.05,6.3,4.17
+Washing Machine,230,615.44,1.16,3.21
+Microwave Oven,230,847.49,0.23,2.35
+Geyser,230,2356.76,0.52,9.0
+Laptop/Computer,230,286.97,5.56,2.21
+Iron,230,1180.4,0.18,2.08
+Fan,230,75.29,6.83,18.4
+Air Conditioner,230,1580.15,4.65,44.1
+Refrigerator,230,386.9,24.0,8.63
+LED Bulb,230,8.01,5.16,8.75
+Television,230,108.51,3.69,4.44
+Washing Machine,230,814.09,1.0,3.19
+Microwave Oven,230,899.72,0.19,2.45
+Geyser,230,2803.89,0.99,9.66
+Laptop/Computer,230,355.75,4.13,2.12
+Iron,230,1244.47,0.16,2.71
+Fan,230,81.43,7.14,15.56
+Air Conditioner,230,1973.93,4.43,46.77
+Refrigerator,230,785.48,24.0,8.61
+LED Bulb,230,7.48,5.91,7.38
+Television,230,218.54,6.15,4.99
+Washing Machine,230,659.02,1.75,3.99
+Microwave Oven,230,915.95,0.2,2.09
+Geyser,230,2590.8,0.8,8.57
+Laptop/Computer,230,526.57,7.92,2.81
+Iron,230,1304.89,0.21,2.9
+Fan,230,80.37,6.78,20.47
+Air Conditioner,230,1674.15,5.78,45.37
+Refrigerator,230,565.81,24.0,8.17
+LED Bulb,230,10.04,4.63,7.13
+Television,230,103.67,3.49,3.94
+Washing Machine,230,752.75,1.81,4.19
+Microwave Oven,230,1679.54,0.32,2.81
+Geyser,230,2900.64,0.86,8.1
+Laptop/Computer,230,378.65,4.32,2.67
+Iron,230,1413.04,0.24,2.5
+Fan,230,88.16,6.38,23.04
+Air Conditioner,230,2548.46,8.62,43.52
+Refrigerator,230,187.22,24.0,8.36
+LED Bulb,230,8.81,4.66,5.16
+Television,230,116.93,4.13,4.86
+Washing Machine,230,1452.42,2.54,4.96
+Microwave Oven,230,1194.28,0.21,2.24
+Geyser,230,2375.5,0.56,8.68
+Laptop/Computer,230,545.22,8.03,2.96
+Iron,230,1204.48,0.17,2.82
+Fan,230,83.05,6.33,16.13
+Air Conditioner,230,1957.02,4.51,48.15
+Refrigerator,230,587.72,24.0,8.18
+LED Bulb,230,9.37,5.11,9.42
+Television,230,112.43,3.31,4.34
+Washing Machine,230,721.5,1.14,3.7
+Microwave Oven,230,832.07,0.24,2.62
+Geyser,230,2352.23,0.59,8.26
+Laptop/Computer,230,362.25,5.76,2.53
+Iron,230,1092.53,0.22,2.12
+Fan,230,72.3,6.0,23.04
+Air Conditioner,230,1523.41,4.04,44.41
+Refrigerator,230,465.44,24.0,9.21
+LED Bulb,230,10.78,4.79,8.58
+Television,230,134.19,4.69,3.21
+Washing Machine,230,538.28,1.86,4.47
+Microwave Oven,230,928.63,0.21,2.7
+Geyser,230,2880.01,0.59,9.68
+Laptop/Computer,230,151.89,4.6,2.27
+Iron,230,1102.39,0.21,2.17
+Fan,230,74.38,6.27,22.08
+Air Conditioner,230,1879.61,5.26,41.83
+Refrigerator,230,689.02,24.0,9.37
+LED Bulb,230,8.95,5.57,8.73
+Television,230,149.94,3.12,3.47
+Washing Machine,230,914.78,1.22,3.41
+Microwave Oven,230,1074.06,0.18,2.04
+Geyser,230,3862.81,1.39,9.49
+Laptop/Computer,230,199.15,4.05,2.45
+Iron,230,1418.89,0.17,2.04
+Fan,230,83.01,7.03,23.66
+Air Conditioner,230,1751.85,4.86,46.26
+Refrigerator,230,523.24,24.0,8.54
+LED Bulb,230,7.85,5.14,8.5
+Television,230,114.82,3.05,3.0
+Washing Machine,230,951.43,1.47,3.78
+Microwave Oven,230,1074.25,0.22,2.74
+Geyser,230,2352.57,0.63,9.53
+Laptop/Computer,230,298.47,5.3,2.11
+Iron,230,1146.21,0.17,2.2
+Fan,230,77.76,7.12,16.24
+Air Conditioner,230,1998.51,4.52,41.8
+Refrigerator,230,1184.01,33.86,8.82
+LED Bulb,230,10.7,4.94,5.47
+Television,230,57.47,4.5,4.73
+Washing Machine,230,608.76,1.11,4.58
+Microwave Oven,230,1086.91,0.2,2.56
+Geyser,230,4052.35,1.46,9.14
+Laptop/Computer,230,387.94,4.58,2.09
+Iron,230,1137.86,0.17,2.7
+Fan,230,86.27,6.99,17.05
+Air Conditioner,230,1814.32,4.96,48.44
+Refrigerator,230,755.83,24.0,8.97
+LED Bulb,230,8.91,4.4,9.85
+Television,230,83.22,3.96,3.58
+Washing Machine,230,963.26,1.4,4.4
+Microwave Oven,230,1192.6,0.16,2.38
+Geyser,230,2047.78,0.86,8.67
+Laptop/Computer,230,67.96,4.72,2.06
+Iron,230,1200.75,0.17,2.01
+Fan,230,70.92,7.73,24.35
+Air Conditioner,230,2522.42,7.98,46.28
+Refrigerator,230,313.38,24.0,9.76
+LED Bulb,230,9.86,4.82,5.03
+Television,230,211.09,6.53,3.16
+Washing Machine,230,760.77,1.3,4.46
+Microwave Oven,230,846.06,0.25,2.19
+Geyser,230,2239.18,0.76,8.7
+Laptop/Computer,230,95.83,4.9,2.76
+Iron,230,1062.49,0.2,2.52
+Fan,230,84.81,7.4,18.96
+Air Conditioner,230,1980.68,4.47,44.03
+Refrigerator,230,603.6,24.0,9.88
+LED Bulb,230,9.79,4.37,9.76
+Television,230,75.16,4.66,4.56
+Washing Machine,230,541.66,1.52,3.25
+Microwave Oven,230,882.63,0.2,2.02
+Geyser,230,3682.51,1.24,9.25
+Laptop/Computer,230,324.56,5.01,2.96
+Iron,230,2109.43,0.35,2.99
+Fan,230,70.15,7.35,20.6
+Air Conditioner,230,1836.32,5.49,48.5
+Refrigerator,230,331.4,24.0,8.58
+LED Bulb,230,11.81,4.11,7.97
+Television,230,124.13,4.73,4.27
+Washing Machine,230,1362.79,2.5,3.49
+Microwave Oven,230,1137.7,0.19,2.48
+Geyser,230,2135.79,0.74,9.08
+Laptop/Computer,230,371.15,4.41,2.63
+Iron,230,1338.55,0.17,2.98
+Fan,230,86.92,7.69,20.41
+Air Conditioner,230,1579.51,5.59,48.15
+Refrigerator,230,734.56,24.0,9.37
+LED Bulb,230,9.27,5.49,5.65
+Television,230,126.84,3.39,4.19
+Washing Machine,230,625.04,1.8,3.07
+Microwave Oven,230,1691.2,0.33,2.45
+Geyser,230,2805.92,0.74,8.7
+Laptop/Computer,230,266.65,5.14,2.19
+Iron,230,1311.35,0.16,2.51
+Fan,230,72.61,6.38,15.9
+Air Conditioner,230,1953.51,5.93,41.16
+Refrigerator,230,329.31,24.0,9.3
+LED Bulb,230,15.49,8.28,8.11
+Television,230,84.53,3.2,4.07
+Washing Machine,230,550.89,1.69,3.94
+Microwave Oven,230,807.66,0.21,2.5
+Geyser,230,2730.25,0.97,8.83
+Laptop/Computer,230,127.57,4.69,2.55
+Iron,230,1394.92,0.17,2.5
+Fan,230,85.04,7.23,23.6
+Air Conditioner,230,1625.74,5.9,47.69
+Refrigerator,230,1021.21,29.7,8.79
+LED Bulb,230,9.12,4.88,7.47
+Television,230,56.44,3.11,4.83
+Washing Machine,230,740.9,1.06,4.97
+Microwave Oven,230,949.48,0.19,2.53
+Geyser,230,2223.29,0.82,8.69
+Laptop/Computer,230,195.65,5.72,2.68
+Iron,230,1244.36,0.2,2.83
+Fan,230,111.9,11.18,16.11
+Air Conditioner,230,2633.56,8.21,44.46
+Refrigerator,230,787.34,24.0,8.28
+LED Bulb,230,7.15,5.04,5.67
+Television,230,72.35,4.04,4.45
+Washing Machine,230,1442.98,2.88,4.41
+Microwave Oven,230,1785.09,0.34,2.31
+Geyser,230,2105.55,0.6,9.81
+Laptop/Computer,230,204.7,4.03,2.88
+Iron,230,1034.79,0.19,2.63
+Fan,230,132.67,9.83,19.19
+Air Conditioner,230,2710.53,7.6,44.42
+Refrigerator,230,204.1,24.0,8.22
+LED Bulb,230,8.33,5.71,5.13
+Television,230,55.51,3.9,3.1
+Washing Machine,230,650.96,1.61,4.04
+Microwave Oven,230,1019.65,0.2,2.08
+Geyser,230,2064.68,0.57,9.86
+Laptop/Computer,230,397.77,4.15,2.7
+Iron,230,1287.64,0.21,2.66
+Fan,230,75.17,6.72,15.8
+Air Conditioner,230,2798.82,8.73,43.39
+Refrigerator,230,1143.9,31.9,9.43
+LED Bulb,230,17.61,8.72,8.7
+Television,230,113.94,3.76,4.67
+Washing Machine,230,788.7,1.44,3.2
+Microwave Oven,230,1012.89,0.18,2.02
+Geyser,230,4069.78,1.27,8.94
+Laptop/Computer,230,106.13,4.48,2.54
+Iron,230,1416.95,0.16,2.69
+Fan,230,83.46,6.49,22.84
+Air Conditioner,230,1501.44,5.59,48.4
+Refrigerator,230,567.3,24.0,9.21
+LED Bulb,230,10.15,5.15,5.04
+Television,230,55.76,4.94,4.17
+Washing Machine,230,588.56,1.4,4.31
+Microwave Oven,230,1095.69,0.22,2.41
+Geyser,230,2826.81,0.54,9.66
+Laptop/Computer,230,337.5,5.79,2.36
+Iron,230,1146.26,0.21,2.08
+Fan,230,78.91,6.31,22.44
+Air Conditioner,230,1663.81,5.18,49.18
+Refrigerator,230,210.92,24.0,8.28
+LED Bulb,230,11.86,5.08,5.54
+Television,230,56.48,3.48,4.01
+Washing Machine,230,778.75,1.43,3.19
+Microwave Oven,230,1034.45,0.17,2.3
+Geyser,230,2217.69,0.74,8.7
+Laptop/Computer,230,276.63,4.1,2.97
+Iron,230,1070.57,0.19,2.44
+Fan,230,84.98,6.92,23.79
+Air Conditioner,230,1633.4,4.15,47.41
+Refrigerator,230,679.96,24.0,8.65
+LED Bulb,230,10.37,4.39,7.02
+Television,230,83.86,4.8,3.63
+Washing Machine,230,895.63,1.63,3.73
+Microwave Oven,230,835.92,0.2,2.3
+Geyser,230,2326.78,0.76,8.43
+Laptop/Computer,230,504.4,8.5,2.11
+Iron,230,1047.41,0.18,2.54
+Fan,230,86.6,6.51,16.79
+Air Conditioner,230,1967.63,5.42,47.0
+Refrigerator,230,302.41,24.0,9.21
+LED Bulb,230,9.85,4.34,8.97
+Television,230,53.14,4.34,4.52
+Washing Machine,230,930.18,1.98,4.81
+Microwave Oven,230,1027.0,0.18,2.27
+Geyser,230,2895.02,0.56,8.91
+Laptop/Computer,230,540.18,7.97,2.77
+Iron,230,1139.62,0.22,2.45
+Fan,230,71.45,6.06,15.29
+Air Conditioner,230,2445.11,8.3,46.61
+Refrigerator,230,381.78,24.0,9.51
+LED Bulb,230,10.5,4.39,7.15
+Television,230,78.65,3.8,4.11
+Washing Machine,230,711.58,1.73,4.71
+Microwave Oven,230,990.45,0.21,2.31
+Geyser,230,3844.67,1.3,8.02
+Laptop/Computer,230,382.91,4.58,2.45
+Iron,230,1125.25,0.21,2.1
+Fan,230,87.53,6.13,23.44
+Air Conditioner,230,1714.75,4.66,40.79
+Refrigerator,230,520.17,24.0,9.88
+LED Bulb,230,10.83,5.1,6.81
+Television,230,147.91,4.14,3.69
+Washing Machine,230,943.17,1.41,3.68
+Microwave Oven,230,932.13,0.23,2.32
+Geyser,230,2594.88,0.84,9.53
+Laptop/Computer,230,303.81,5.32,2.12
+Iron,230,1827.78,0.32,2.44
+Fan,230,89.88,6.48,19.17
+Air Conditioner,230,1559.67,4.68,41.94
+Refrigerator,230,197.13,24.0,8.12
+LED Bulb,230,7.15,5.3,9.2
+Television,230,67.56,3.71,3.38
+Washing Machine,230,637.33,1.77,3.29
+Microwave Oven,230,814.03,0.23,2.9
+Geyser,230,2057.78,0.96,9.06
+Laptop/Computer,230,103.16,5.43,2.25
+Iron,230,1225.92,0.25,2.43
+Fan,230,74.84,6.63,24.16
+Air Conditioner,230,1884.97,5.68,40.78
+Refrigerator,230,259.96,24.0,9.83
+LED Bulb,230,8.14,5.76,8.15
+Television,230,138.59,3.02,4.69
+Washing Machine,230,859.15,1.68,4.58
+Microwave Oven,230,1081.06,0.2,2.41
+Geyser,230,2185.49,0.71,8.21
+Laptop/Computer,230,109.46,5.47,2.17
+Iron,230,1489.67,0.17,2.34
+Fan,230,78.71,6.44,15.72
+Air Conditioner,230,1857.99,5.7,47.75
+Refrigerator,230,507.12,24.0,8.98
+LED Bulb,230,8.63,4.36,8.3
+Television,230,131.7,3.51,4.3
+Washing Machine,230,705.26,1.67,4.01
+Microwave Oven,230,1108.22,0.21,2.5
+Geyser,230,2329.79,0.53,8.05
+Laptop/Computer,230,122.16,5.91,2.3
+Iron,230,1215.25,0.23,2.11
+Fan,230,87.45,6.94,24.71
+Air Conditioner,230,1537.52,4.69,41.21
+Refrigerator,230,742.44,24.0,8.18
+LED Bulb,230,10.26,4.97,6.15
+Television,230,95.92,4.89,4.88
+Washing Machine,230,994.37,1.32,4.34
+Microwave Oven,230,1016.24,0.24,2.34
+Geyser,230,2602.33,0.78,8.59
+Laptop/Computer,230,234.35,4.21,2.84
+Iron,230,1216.0,0.21,2.6
+Fan,230,87.05,6.41,19.67
+Air Conditioner,230,1845.48,5.54,40.44
+Refrigerator,230,148.95,24.0,9.31
+LED Bulb,230,8.27,5.81,8.19
+Television,230,74.81,3.41,4.36
+Washing Machine,230,928.22,1.2,3.6
+Microwave Oven,230,1016.86,0.2,2.57
+Geyser,230,2884.49,0.55,9.93
+Laptop/Computer,230,379.36,5.64,2.9
+Iron,230,1187.36,0.23,2.95
+Fan,230,87.25,6.73,18.3
+Air Conditioner,230,1562.17,4.1,40.47
+Refrigerator,230,150.35,24.0,8.43
+LED Bulb,230,10.76,5.0,6.23
+Television,230,86.99,3.58,4.86
+Washing Machine,230,1315.79,2.99,4.57
+Microwave Oven,230,926.49,0.21,2.45
+Geyser,230,2186.04,0.96,8.13
+Laptop/Computer,230,153.3,5.67,2.42
+Iron,230,1406.42,0.24,2.18
+Fan,230,77.03,7.61,20.82
+Air Conditioner,230,1561.62,4.76,46.0
+Refrigerator,230,422.61,24.0,8.93
+LED Bulb,230,8.42,5.55,8.66
+Television,230,121.27,3.51,3.35
+Washing Machine,230,810.19,1.33,3.41
+Microwave Oven,230,1107.86,0.19,2.52
+Geyser,230,2389.71,0.66,9.94
+Laptop/Computer,230,346.85,5.66,2.58
+Iron,230,1358.71,0.18,2.13
+Fan,230,82.14,7.48,19.0
+Air Conditioner,230,1832.17,5.76,40.82
+Refrigerator,230,992.71,29.2,9.36
+LED Bulb,230,9.23,5.46,8.12
+Television,230,142.78,3.86,3.62
+Washing Machine,230,579.42,1.94,3.31
+Microwave Oven,230,1117.8,0.22,2.98
+Geyser,230,2653.34,0.81,9.43
+Laptop/Computer,230,385.23,5.21,2.44
+Iron,230,1247.08,0.25,2.59
+Fan,230,78.88,7.08,20.39
+Air Conditioner,230,1983.5,5.95,41.03
+Refrigerator,230,710.14,24.0,9.83
+LED Bulb,230,10.77,4.22,7.17
+Television,230,61.56,4.03,4.9
+Washing Machine,230,950.65,1.21,3.81
+Microwave Oven,230,928.58,0.17,2.57
+Geyser,230,4144.77,1.32,8.75
+Laptop/Computer,230,212.75,4.44,2.91
+Iron,230,1874.82,0.32,2.42
+Fan,230,80.05,6.99,18.38
+Air Conditioner,230,1673.64,5.74,44.74
+Refrigerator,230,465.33,24.0,9.16
+LED Bulb,230,11.09,4.82,9.79
+Television,230,142.89,4.03,3.49
+Washing Machine,230,698.17,1.71,4.88
+Microwave Oven,230,1176.75,0.24,2.81
+Geyser,230,2343.64,0.98,8.63
+Laptop/Computer,230,229.27,4.22,2.22
+Iron,230,1179.3,0.21,2.2
+Fan,230,89.66,7.69,21.63
+Air Conditioner,230,1725.06,4.76,42.95
+Refrigerator,230,654.12,24.0,9.77
+LED Bulb,230,9.04,5.4,6.03
+Television,230,216.98,7.3,4.15
+Washing Machine,230,787.86,1.91,3.6
+Microwave Oven,230,847.04,0.21,2.9
+Geyser,230,2019.54,0.88,8.82
+Laptop/Computer,230,257.71,5.46,2.89
+Iron,230,1418.76,0.18,2.63
+Fan,230,80.7,6.82,22.52
+Air Conditioner,230,1603.91,4.33,40.0
+Refrigerator,230,1124.41,35.36,9.57
+LED Bulb,230,10.3,5.14,7.56
+Television,230,213.87,6.64,4.74
+Washing Machine,230,518.07,1.66,3.72
+Microwave Oven,230,1612.97,0.36,2.09
+Geyser,230,4009.79,1.21,8.79
+Laptop/Computer,230,321.9,5.6,2.65
+Iron,230,1247.28,0.24,2.98
+Fan,230,77.14,6.63,17.89
+Air Conditioner,230,1989.86,5.97,43.03
+Refrigerator,230,744.23,24.0,8.22
+LED Bulb,230,10.53,4.62,7.71
+Television,230,139.65,3.93,4.46
+Washing Machine,230,549.93,1.16,3.54
+Microwave Oven,230,1159.16,0.17,2.02
+Geyser,230,2320.61,0.91,9.57
+Laptop/Computer,230,220.86,5.33,2.31
+Iron,230,1095.87,0.2,2.05
+Fan,230,83.3,7.54,23.99
+Air Conditioner,230,2478.62,7.22,49.81
+Refrigerator,230,723.5,24.0,8.37
+LED Bulb,230,10.69,4.51,6.29
+Television,230,103.98,3.05,4.83
+Washing Machine,230,815.18,1.97,3.48
+Microwave Oven,230,1694.86,0.34,2.72
+Geyser,230,3853.35,1.21,9.27
+Laptop/Computer,230,590.07,8.53,2.71
+Iron,230,1072.85,0.24,2.97
+Fan,230,81.64,7.36,20.91
+Air Conditioner,230,1917.2,4.57,46.13
+Refrigerator,230,558.69,24.0,9.5
+LED Bulb,230,9.07,5.62,6.67
+Television,230,147.79,3.74,4.18
+Washing Machine,230,966.92,1.3,4.52
+Microwave Oven,230,887.16,0.2,2.33
+Geyser,230,2337.23,0.89,9.31
+Laptop/Computer,230,102.69,5.88,2.58
+Iron,230,1223.22,0.17,2.37
+Fan,230,88.32,6.31,17.57
+Air Conditioner,230,1938.55,4.7,44.75
+Refrigerator,230,582.02,24.0,8.46
+LED Bulb,230,9.51,4.81,5.33
+Television,230,84.13,3.19,3.28
+Washing Machine,230,712.81,1.52,4.18
+Microwave Oven,230,1140.62,0.16,2.91
+Geyser,230,2187.01,0.89,9.34
+Laptop/Computer,230,398.51,4.26,2.34
+Iron,230,1075.76,0.16,2.02
+Fan,230,75.46,7.51,21.9
+Air Conditioner,230,1804.59,5.97,49.79
+Refrigerator,230,1177.42,32.65,9.45
+LED Bulb,230,11.29,5.77,8.72
+Television,230,202.72,6.36,4.31
+Washing Machine,230,710.17,1.3,4.94
+Microwave Oven,230,958.74,0.18,2.6
+Geyser,230,2679.19,0.81,8.73
+Laptop/Computer,230,150.32,5.18,2.86
+Iron,230,1241.59,0.2,2.07
+Fan,230,85.51,6.01,16.93
+Air Conditioner,230,2720.02,7.41,45.79
+Refrigerator,230,349.63,24.0,8.39
+LED Bulb,230,10.42,4.76,5.65
+Television,230,209.89,6.35,4.25
+Washing Machine,230,701.3,1.23,3.9
+Microwave Oven,230,1118.28,0.17,2.39
+Geyser,230,2426.27,0.97,8.7
+Laptop/Computer,230,57.77,4.36,2.46
+Iron,230,1470.92,0.21,2.3
+Fan,230,79.11,7.01,19.67
+Air Conditioner,230,1979.86,4.77,49.91
+Refrigerator,230,653.01,24.0,9.9
+LED Bulb,230,10.81,5.78,6.42
+Television,230,149.78,4.27,3.07
+Washing Machine,230,955.49,1.71,3.61
+Microwave Oven,230,1137.73,0.19,2.35
+Geyser,230,2089.49,0.79,9.92
+Laptop/Computer,230,164.58,5.55,2.94
+Iron,230,1095.55,0.18,2.17
+Fan,230,81.73,7.08,19.34
+Air Conditioner,230,1602.64,4.97,47.95
+Refrigerator,230,408.08,24.0,9.3
+LED Bulb,230,9.39,4.61,6.6
+Television,230,103.91,3.88,3.29
+Washing Machine,230,878.51,1.54,3.15
+Microwave Oven,230,1051.95,0.24,2.31
+Geyser,230,2711.09,0.61,8.75
+Laptop/Computer,230,561.77,7.91,2.83
+Iron,230,2146.68,0.36,2.5
+Fan,230,85.41,6.36,24.53
+Air Conditioner,230,1836.46,4.19,45.55
+Refrigerator,230,568.26,24.0,9.28
+LED Bulb,230,8.94,5.83,5.37
+Television,230,80.73,4.25,4.51
+Washing Machine,230,820.05,1.36,3.41
+Microwave Oven,230,1622.73,0.37,2.22
+Geyser,230,2523.15,0.84,9.86
+Laptop/Computer,230,161.23,5.2,2.17
+Iron,230,1076.27,0.24,2.93
+Fan,230,74.7,7.26,19.51
+Air Conditioner,230,1855.12,5.31,44.94
+Refrigerator,230,262.61,24.0,8.45
+LED Bulb,230,11.13,5.47,8.63
+Television,230,63.73,4.4,3.11
+Washing Machine,230,768.64,1.63,4.6
+Microwave Oven,230,1172.46,0.18,2.06
+Geyser,230,2151.94,0.6,9.01
+Laptop/Computer,230,168.91,5.56,2.17
+Iron,230,1959.75,0.36,2.94
+Fan,230,71.08,7.55,18.02
+Air Conditioner,230,1693.71,4.96,49.28
+Refrigerator,230,536.79,24.0,9.43
+LED Bulb,230,9.18,4.17,9.01
+Television,230,214.27,6.78,3.41
+Washing Machine,230,981.6,1.43,3.07
+Microwave Oven,230,830.73,0.18,2.43
+Geyser,230,2375.63,0.84,9.65
+Laptop/Computer,230,535.57,8.43,2.28
+Iron,230,1188.56,0.18,2.13
+Fan,230,120.17,9.96,24.53
+Air Conditioner,230,1571.34,4.86,49.86
+Refrigerator,230,270.41,24.0,9.76
+LED Bulb,230,7.31,5.35,6.35
+Television,230,55.34,4.45,4.05
+Washing Machine,230,1464.88,2.47,4.23
+Microwave Oven,230,927.11,0.22,2.85
+Geyser,230,2965.83,0.95,9.95
+Laptop/Computer,230,381.65,5.17,2.18
+Iron,230,1411.74,0.19,2.18
+Fan,230,82.0,6.88,15.4
+Air Conditioner,230,1761.09,4.04,47.9
+Refrigerator,230,984.46,31.79,8.94
+LED Bulb,230,10.81,4.62,8.6
+Television,230,126.16,3.83,4.78
+Washing Machine,230,668.46,1.97,3.81
+Microwave Oven,230,933.16,0.22,2.69
+Geyser,230,2018.99,0.76,8.33
+Laptop/Computer,230,51.37,4.4,2.1
+Iron,230,1320.28,0.23,2.71
+Fan,230,120.7,9.92,20.18
+Air Conditioner,230,1995.65,4.59,40.14
+Refrigerator,230,667.57,24.0,8.13
+LED Bulb,230,7.68,4.2,5.88
+Television,230,124.15,3.02,3.28
+Washing Machine,230,754.47,1.5,4.82
+Microwave Oven,230,1470.23,0.35,2.87
+Geyser,230,2725.18,0.81,9.15
+Laptop/Computer,230,84.07,4.97,2.62
+Iron,230,1461.1,0.16,2.99
+Fan,230,83.63,7.51,24.87
+Air Conditioner,230,2799.82,8.75,49.47
+Refrigerator,230,696.92,24.0,9.8
+LED Bulb,230,10.98,5.21,7.95
+Television,230,60.68,4.32,3.44
+Washing Machine,230,580.61,1.06,3.8
+Microwave Oven,230,921.98,0.22,2.37
+Geyser,230,2525.29,0.52,8.89
+Laptop/Computer,230,120.1,4.65,2.26
+Iron,230,1452.36,0.22,2.08
+Fan,230,114.8,9.71,21.38
+Air Conditioner,230,1653.39,5.54,47.43
+Refrigerator,230,344.09,24.0,8.45
+LED Bulb,230,9.1,5.81,8.35
+Television,230,187.98,7.07,4.86
+Washing Machine,230,525.28,1.69,4.83
+Microwave Oven,230,828.01,0.17,2.69
+Geyser,230,2689.27,0.78,9.07
+Laptop/Computer,230,129.7,4.17,3.0
+Iron,230,1290.37,0.17,2.33
+Fan,230,89.63,7.54,19.75
+Air Conditioner,230,1625.9,4.18,43.33
+Refrigerator,230,512.65,24.0,8.52
+LED Bulb,230,9.32,4.44,5.79
+Television,230,54.55,3.12,3.84
+Washing Machine,230,740.8,1.0,4.05
+Microwave Oven,230,839.94,0.19,2.33
+Geyser,230,2832.35,0.59,8.48
+Laptop/Computer,230,194.06,5.14,2.61
+Iron,230,1414.21,0.23,2.29
+Fan,230,89.06,7.03,24.35
+Air Conditioner,230,1639.97,4.18,42.83
+Refrigerator,230,739.57,24.0,8.58
+LED Bulb,230,7.6,4.9,8.75
+Television,230,113.08,3.9,3.12
+Washing Machine,230,578.52,1.12,3.28
+Microwave Oven,230,1195.95,0.2,2.33
+Geyser,230,2061.9,0.82,9.43
+Laptop/Computer,230,289.99,5.71,2.38
+Iron,230,1436.07,0.2,2.13
+Fan,230,72.64,7.27,23.02
+Air Conditioner,230,1781.91,4.09,41.27
+Refrigerator,230,420.62,24.0,9.55
+LED Bulb,230,7.94,4.98,6.28
+Television,230,223.31,6.28,4.17
+Washing Machine,230,911.95,1.92,4.57
+Microwave Oven,230,876.67,0.22,2.81
+Geyser,230,2170.13,0.66,8.59
+Laptop/Computer,230,108.41,4.41,2.83
+Iron,230,1011.05,0.18,2.95
+Fan,230,83.17,6.55,22.61
+Air Conditioner,230,1935.65,4.47,40.44
+Refrigerator,230,636.78,24.0,9.34
+LED Bulb,230,8.66,4.37,9.49
+Television,230,141.5,3.5,4.61
+Washing Machine,230,620.0,1.98,3.39
+Microwave Oven,230,1041.31,0.21,2.03
+Geyser,230,2141.02,0.86,8.51
+Laptop/Computer,230,73.12,4.67,2.82
+Iron,230,1356.25,0.18,2.51
+Fan,230,77.96,6.11,16.93
+Air Conditioner,230,1979.94,5.41,43.32
+Refrigerator,230,1059.73,34.04,9.39
+LED Bulb,230,11.74,4.6,6.43
+Television,230,142.47,4.58,3.21
+Washing Machine,230,579.24,1.74,3.78
+Microwave Oven,230,1137.73,0.22,2.51
+Geyser,230,2953.66,0.54,8.1
+Laptop/Computer,230,315.21,4.9,2.19
+Iron,230,1280.96,0.22,2.48
+Fan,230,86.19,7.11,21.71
+Air Conditioner,230,1845.13,5.56,40.24
+Refrigerator,230,281.01,24.0,9.1
+LED Bulb,230,11.21,5.91,7.73
+Television,230,53.57,3.75,3.68
+Washing Machine,230,1386.9,2.58,3.36
+Microwave Oven,230,927.18,0.25,2.79
+Geyser,230,2169.23,0.61,8.34
+Laptop/Computer,230,592.53,8.4,2.47
+Iron,230,1311.81,0.24,2.2
+Fan,230,74.65,6.82,21.22
+Air Conditioner,230,1550.43,5.83,42.78
+Refrigerator,230,1090.39,33.78,9.01
+LED Bulb,230,14.94,7.29,5.98
+Television,230,138.3,3.45,3.1
+Washing Machine,230,998.36,1.1,4.67
+Microwave Oven,230,1040.09,0.22,2.72
+Geyser,230,2925.07,0.9,9.75
+Laptop/Computer,230,231.42,4.59,2.34
+Iron,230,1280.48,0.22,2.77
+Fan,230,81.57,6.36,23.87
+Air Conditioner,230,1590.03,4.65,46.82
+Refrigerator,230,798.55,24.0,8.58
+LED Bulb,230,9.27,5.48,8.24
+Television,230,203.49,7.44,3.17
+Washing Machine,230,982.22,1.7,4.95
+Microwave Oven,230,1616.42,0.33,2.67
+Geyser,230,2301.67,0.96,9.55
+Laptop/Computer,230,299.71,5.69,2.86
+Iron,230,1391.32,0.21,2.69
+Fan,230,122.93,11.63,15.03
+Air Conditioner,230,1757.38,4.6,44.76
+Refrigerator,230,636.07,24.0,8.48
+LED Bulb,230,9.53,4.49,8.76
+Television,230,218.89,7.5,3.37
+Washing Machine,230,682.84,1.01,3.9
+Microwave Oven,230,844.32,0.24,2.86
+Geyser,230,2170.32,0.6,8.74
+Laptop/Computer,230,321.13,5.92,2.14
+Iron,230,1267.21,0.24,2.81
+Fan,230,84.72,6.52,22.97
+Air Conditioner,230,1855.97,4.54,40.01
+Refrigerator,230,411.74,24.0,8.33
+LED Bulb,230,7.65,5.58,6.11
+Television,230,127.78,4.61,3.09
+Washing Machine,230,720.77,1.66,3.28
+Microwave Oven,230,876.06,0.25,2.75
+Geyser,230,2338.07,0.97,8.33
+Laptop/Computer,230,274.56,4.5,2.75
+Iron,230,1105.31,0.24,2.23
+Fan,230,71.9,7.61,24.45
+Air Conditioner,230,2441.33,8.06,42.68
+Refrigerator,230,1028.92,32.03,8.41
+LED Bulb,230,10.36,4.76,5.67
+Television,230,146.73,3.83,3.47
+Washing Machine,230,920.75,1.08,4.84
+Microwave Oven,230,868.89,0.22,2.72
+Geyser,230,2891.21,0.53,8.37
+Laptop/Computer,230,227.26,5.77,2.5
+Iron,230,1474.0,0.23,2.27
+Fan,230,80.3,6.72,21.42
+Air Conditioner,230,1824.29,4.65,42.45
+Refrigerator,230,643.8,24.0,8.57
+LED Bulb,230,10.29,4.95,8.81
+Television,230,107.27,4.76,4.93
+Washing Machine,230,834.29,1.53,4.76
+Microwave Oven,230,1170.07,0.22,2.11
+Geyser,230,2974.78,0.53,8.23
+Laptop/Computer,230,290.1,4.19,2.17
+Iron,230,1200.08,0.17,2.89
+Fan,230,85.27,6.98,22.4
+Air Conditioner,230,1515.69,5.31,40.85
+Refrigerator,230,499.75,24.0,8.4
+LED Bulb,230,11.35,5.84,6.9
+Television,230,64.0,3.02,4.75
+Washing Machine,230,949.08,1.43,4.97
+Microwave Oven,230,902.7,0.25,2.62
+Geyser,230,2813.68,0.69,8.06
+Laptop/Computer,230,290.49,5.97,2.2
+Iron,230,1134.96,0.24,2.62
+Fan,230,84.43,7.01,17.09
+Air Conditioner,230,2776.62,8.97,43.38
+Refrigerator,230,498.07,24.0,8.55
+LED Bulb,230,15.27,7.23,7.18
+Television,230,127.45,4.48,3.23
+Washing Machine,230,1493.94,2.84,3.38
+Microwave Oven,230,1040.12,0.22,2.43
+Geyser,230,2872.78,0.53,8.2
+Laptop/Computer,230,132.04,4.65,2.76
+Iron,230,1264.02,0.2,2.05
+Fan,230,83.54,6.72,15.57
+Air Conditioner,230,1965.33,5.09,47.8
+Refrigerator,230,1174.79,29.79,8.74
+LED Bulb,230,11.61,4.59,6.36
+Television,230,60.67,3.94,4.5
+Washing Machine,230,614.81,1.36,4.48
+Microwave Oven,230,886.89,0.2,2.94
+Geyser,230,2290.93,0.88,9.76
+Laptop/Computer,230,332.39,5.87,3.0
+Iron,230,1196.09,0.2,2.21
+Fan,230,112.88,9.75,15.32
+Air Conditioner,230,1698.21,4.92,48.06
+Refrigerator,230,353.41,24.0,9.74
+LED Bulb,230,8.24,4.3,9.89
+Television,230,117.11,4.8,4.95
+Washing Machine,230,556.6,1.76,4.46
+Microwave Oven,230,912.23,0.24,2.69
+Geyser,230,2755.42,0.73,9.84
+Laptop/Computer,230,85.81,5.95,2.42
+Iron,230,1177.85,0.21,2.39
+Fan,230,71.2,6.29,22.57
+Air Conditioner,230,1524.1,4.86,40.48
+Refrigerator,230,1029.85,33.63,9.78
+LED Bulb,230,7.32,5.18,7.2
+Television,230,204.87,6.5,4.0
+Washing Machine,230,1422.39,2.62,4.48
+Microwave Oven,230,1110.58,0.25,2.99
+Geyser,230,2232.74,0.87,8.01
+Laptop/Computer,230,257.25,5.64,2.22
+Iron,230,1105.45,0.16,2.5
+Fan,230,81.59,6.1,18.39
+Air Conditioner,230,1692.2,5.66,45.16
+Refrigerator,230,301.34,24.0,9.77
+LED Bulb,230,8.4,4.77,5.56
+Television,230,143.72,4.43,3.57
+Washing Machine,230,715.04,1.99,4.84
+Microwave Oven,230,805.42,0.17,2.48
+Geyser,230,2966.57,0.82,8.09
+Laptop/Computer,230,74.03,4.76,2.48
+Iron,230,1340.92,0.2,2.65
+Fan,230,76.68,6.01,15.02
+Air Conditioner,230,1839.84,4.79,49.88
+Refrigerator,230,406.15,24.0,9.8
+LED Bulb,230,11.71,4.77,5.91
+Television,230,129.42,3.2,3.31
+Washing Machine,230,539.71,1.59,3.72
+Microwave Oven,230,924.68,0.18,2.2
+Geyser,230,2794.69,0.53,9.52
+Laptop/Computer,230,316.75,4.48,2.23
+Iron,230,1243.41,0.25,2.39
+Fan,230,75.2,7.91,24.11
+Air Conditioner,230,1932.12,4.21,47.52
+Refrigerator,230,770.93,24.0,9.49
+LED Bulb,230,11.68,4.32,8.97
+Television,230,68.52,4.0,3.4
+Washing Machine,230,955.58,1.74,4.4
+Microwave Oven,230,943.19,0.22,2.3
+Geyser,230,2906.85,0.78,9.72
+Laptop/Computer,230,176.41,5.82,2.48
+Iron,230,1337.6,0.18,2.29
+Fan,230,85.76,7.69,16.97
+Air Conditioner,230,1575.64,5.03,49.09
+Refrigerator,230,388.56,24.0,8.49
+LED Bulb,230,11.28,5.65,7.62
+Television,230,146.38,4.45,3.3
+Washing Machine,230,719.84,1.44,4.22
+Microwave Oven,230,808.95,0.19,2.63
+Geyser,230,2666.87,0.62,9.93
+Laptop/Computer,230,312.78,4.81,2.51
+Iron,230,1054.33,0.24,2.58
+Fan,230,87.56,6.92,16.98
+Air Conditioner,230,1929.79,5.9,46.64
+Refrigerator,230,403.66,24.0,8.58
+LED Bulb,230,9.09,5.76,9.11
+Television,230,85.35,3.39,3.19
+Washing Machine,230,983.56,1.84,4.14
+Microwave Oven,230,1573.42,0.31,2.82
+Geyser,230,2666.53,0.72,8.18
+Laptop/Computer,230,535.01,7.74,2.92
+Iron,230,1957.91,0.37,2.84
+Fan,230,81.9,6.93,24.83
+Air Conditioner,230,1802.26,5.18,46.47
+Refrigerator,230,773.35,24.0,9.74
+LED Bulb,230,8.55,4.82,5.46
+Television,230,126.01,4.33,3.45
+Washing Machine,230,879.26,1.62,4.91
+Microwave Oven,230,1103.5,0.21,2.43
+Geyser,230,2268.74,0.67,8.92
+Laptop/Computer,230,63.22,5.19,2.52
+Iron,230,1268.75,0.2,2.62
+Fan,230,89.79,7.45,19.79
+Air Conditioner,230,1763.97,5.97,49.62
+Refrigerator,230,376.04,24.0,8.28
+LED Bulb,230,9.1,5.76,6.46
+Television,230,59.36,4.99,3.14
+Washing Machine,230,903.53,1.33,3.87
+Microwave Oven,230,908.79,0.2,2.91
+Geyser,230,2397.96,0.8,8.88
+Laptop/Computer,230,242.87,5.74,2.32
+Iron,230,1244.73,0.17,2.33
+Fan,230,84.1,6.46,20.57
+Air Conditioner,230,1758.46,4.34,46.6
+Refrigerator,230,239.02,24.0,9.13
+LED Bulb,230,7.67,4.84,7.37
+Television,230,127.58,4.69,4.51
+Washing Machine,230,543.18,1.67,4.5
+Microwave Oven,230,1199.25,0.25,2.99
+Geyser,230,2780.06,0.59,8.93
+Laptop/Computer,230,70.65,5.08,2.06
+Iron,230,1001.74,0.17,2.9
+Fan,230,88.17,6.17,22.48
+Air Conditioner,230,1815.77,5.71,46.87
+Refrigerator,230,1044.52,35.65,9.59
+LED Bulb,230,7.9,5.63,7.13
+Television,230,108.07,4.14,3.6
+Washing Machine,230,805.26,1.89,3.69
+Microwave Oven,230,929.35,0.22,2.25
+Geyser,230,2678.91,0.79,9.11
+Laptop/Computer,230,315.86,4.33,2.7
+Iron,230,1097.06,0.23,2.51
+Fan,230,85.06,7.1,22.52
+Air Conditioner,230,1859.48,5.11,43.01
+Refrigerator,230,105.34,24.0,8.93
+LED Bulb,230,8.86,5.8,5.86
+Television,230,108.87,4.18,4.81
+Washing Machine,230,910.69,1.75,4.4
+Microwave Oven,230,908.0,0.19,2.24
+Geyser,230,2371.98,0.6,8.79
+Laptop/Computer,230,182.24,4.72,2.39
+Iron,230,1159.58,0.23,2.42
+Fan,230,119.29,11.93,24.93
+Air Conditioner,230,2948.39,8.43,49.21
+Refrigerator,230,109.15,24.0,9.97
+LED Bulb,230,11.73,5.22,9.02
+Television,230,87.04,4.89,4.35
+Washing Machine,230,712.71,1.75,4.06
+Microwave Oven,230,932.36,0.19,2.93
+Geyser,230,2710.72,0.68,9.39
+Laptop/Computer,230,62.7,5.03,2.64
+Iron,230,1374.95,0.19,2.92
+Fan,230,85.7,7.54,24.12
+Air Conditioner,230,1742.98,4.13,47.48
+Refrigerator,230,143.03,24.0,8.99
+LED Bulb,230,8.6,5.37,8.62
+Television,230,99.08,4.06,3.49
+Washing Machine,230,1386.54,2.97,3.89
+Microwave Oven,230,1550.61,0.34,2.27
+Geyser,230,2921.43,0.85,8.79
+Laptop/Computer,230,383.61,4.59,2.91
+Iron,230,1246.3,0.19,2.04
+Fan,230,72.59,7.35,17.11
+Air Conditioner,230,1642.53,5.88,41.95
+Refrigerator,230,250.88,24.0,8.12
+LED Bulb,230,8.3,4.96,8.3
+Television,230,148.93,4.79,3.89
+Washing Machine,230,548.11,1.05,4.46
+Microwave Oven,230,804.03,0.17,2.02
+Geyser,230,2330.13,0.56,8.93
+Laptop/Computer,230,515.94,8.5,2.8
+Iron,230,1111.95,0.21,2.83
+Fan,230,88.51,6.02,20.22
+Air Conditioner,230,1862.44,5.53,47.23
+Refrigerator,230,513.62,24.0,8.4
+LED Bulb,230,9.68,5.01,9.94
+Television,230,101.17,3.63,3.45
+Washing Machine,230,704.71,1.89,4.56
+Microwave Oven,230,1163.98,0.22,2.02
+Geyser,230,4098.65,1.49,8.67
+Laptop/Computer,230,262.31,5.48,2.06
+Iron,230,1432.97,0.24,2.56
+Fan,230,78.11,7.39,17.4
+Air Conditioner,230,1590.64,5.86,45.3
+Refrigerator,230,582.53,24.0,9.47
+LED Bulb,230,9.75,5.95,9.13
+Television,230,118.06,3.56,3.18
+Washing Machine,230,575.25,1.14,3.84
+Microwave Oven,230,1526.34,0.32,2.69
+Geyser,230,3606.23,1.41,8.15
+Laptop/Computer,230,216.99,5.48,2.58
+Iron,230,1106.91,0.19,2.21
+Fan,230,82.98,7.12,16.83
+Air Conditioner,230,1701.92,5.58,46.45
+Refrigerator,230,1112.33,29.82,8.14
+LED Bulb,230,7.44,4.35,9.15
+Television,230,72.54,3.56,4.19
+Washing Machine,230,630.78,1.55,4.81
+Microwave Oven,230,892.67,0.16,2.23
+Geyser,230,2706.46,0.78,9.99
+Laptop/Computer,230,221.64,5.38,2.2
+Iron,230,1204.78,0.2,2.26
+Fan,230,80.09,7.04,20.02
+Air Conditioner,230,1555.86,5.74,40.24
+Refrigerator,230,785.31,24.0,9.49
+LED Bulb,230,9.32,4.13,8.73
+Television,230,87.24,3.64,3.78
+Washing Machine,230,869.29,1.42,4.74
+Microwave Oven,230,933.4,0.21,2.19
+Geyser,230,2975.93,0.6,9.72
+Laptop/Computer,230,190.65,5.89,2.84
+Iron,230,1443.04,0.25,2.12
+Fan,230,78.1,7.87,15.98
+Air Conditioner,230,1554.66,4.92,41.28
+Refrigerator,230,466.43,24.0,9.39
+LED Bulb,230,7.9,4.5,8.78
+Television,230,139.68,4.17,3.46
+Washing Machine,230,1382.84,2.78,4.69
+Microwave Oven,230,1084.13,0.17,2.98
+Geyser,230,2040.43,0.77,9.63
+Laptop/Computer,230,395.57,5.46,2.02
+Iron,230,1014.93,0.22,2.53
+Fan,230,85.11,7.78,16.25
+Air Conditioner,230,1557.51,4.09,43.9
+Refrigerator,230,481.12,24.0,9.82
+LED Bulb,230,11.85,4.82,5.31
+Television,230,68.15,4.49,4.26
+Washing Machine,230,663.03,1.19,4.26
+Microwave Oven,230,866.38,0.25,2.35
+Geyser,230,2723.94,0.57,9.73
+Laptop/Computer,230,396.12,4.43,2.63
+Iron,230,1198.76,0.23,2.29
+Fan,230,89.09,6.69,21.03
+Air Conditioner,230,1800.97,5.95,40.19
+Refrigerator,230,108.11,24.0,8.23
+LED Bulb,230,9.67,5.72,5.14
+Television,230,80.15,3.45,3.52
+Washing Machine,230,604.18,1.06,3.39
+Microwave Oven,230,932.61,0.25,2.42
+Geyser,230,4365.17,1.44,8.1
+Laptop/Computer,230,327.2,4.25,2.09
+Iron,230,1427.84,0.17,2.49
+Fan,230,118.39,10.44,22.29
+Air Conditioner,230,2510.81,7.21,49.8
+Refrigerator,230,248.96,24.0,8.35
+LED Bulb,230,8.44,4.48,7.12
+Television,230,141.62,3.88,4.91
+Washing Machine,230,554.16,1.5,3.2
+Microwave Oven,230,1107.89,0.2,2.15
+Geyser,230,2205.64,0.8,9.57
+Laptop/Computer,230,223.6,5.54,2.4
+Iron,230,1068.01,0.21,2.35
+Fan,230,88.29,6.05,20.01
+Air Conditioner,230,1962.74,4.64,46.0
+Refrigerator,230,1004.9,29.0,9.53
+LED Bulb,230,7.84,4.7,8.48
+Television,230,144.36,4.15,3.73
+Washing Machine,230,921.53,1.24,3.98
+Microwave Oven,230,1073.96,0.2,2.66
+Geyser,230,2918.99,0.7,8.94
+Laptop/Computer,230,375.88,5.19,2.52
+Iron,230,1269.76,0.24,2.05
+Fan,230,112.89,10.9,24.24
+Air Conditioner,230,1656.84,4.06,41.38
+Refrigerator,230,425.38,24.0,9.19
+LED Bulb,230,10.82,5.37,5.21
+Television,230,108.21,3.86,3.62
+Washing Machine,230,641.64,1.7,4.42
+Microwave Oven,230,912.28,0.18,2.86
+Geyser,230,2915.12,0.99,8.82
+Laptop/Computer,230,383.17,5.4,2.14
+Iron,230,1221.95,0.21,2.96
+Fan,230,87.3,6.42,21.59
+Air Conditioner,230,1813.16,5.64,46.85
+Refrigerator,230,719.18,24.0,8.01
+LED Bulb,230,8.63,4.57,9.79
+Television,230,57.57,3.95,4.2
+Washing Machine,230,796.96,1.09,4.32
+Microwave Oven,230,1081.29,0.17,2.19
+Geyser,230,2415.2,0.79,8.09
+Laptop/Computer,230,102.52,5.58,2.95
+Iron,230,1184.66,0.21,2.53
+Fan,230,80.1,6.6,23.06
+Air Conditioner,230,1570.84,5.8,43.98
+Refrigerator,230,273.75,24.0,8.88
+LED Bulb,230,9.0,4.63,5.76
+Television,230,106.45,3.2,3.31
+Washing Machine,230,785.42,1.99,4.01
+Microwave Oven,230,1014.46,0.21,2.92
+Geyser,230,2681.37,0.58,9.91
+Laptop/Computer,230,363.03,4.36,2.35
+Iron,230,1389.72,0.17,2.47
+Fan,230,84.47,7.61,16.41
+Air Conditioner,230,1753.28,4.01,40.99
+Refrigerator,230,208.11,24.0,8.44
+LED Bulb,230,10.62,5.94,7.13
+Television,230,124.65,3.27,4.1
+Washing Machine,230,871.64,1.33,3.53
+Microwave Oven,230,1156.64,0.21,2.5
+Geyser,230,2434.73,0.91,9.45
+Laptop/Computer,230,108.95,5.22,2.92
+Iron,230,1190.35,0.22,2.65
+Fan,230,108.04,11.93,16.37
+Air Conditioner,230,1906.93,4.73,41.51
+Refrigerator,230,1028.97,30.35,9.95
+LED Bulb,230,11.08,4.09,7.94
+Television,230,130.2,4.8,3.28
+Washing Machine,230,745.47,1.5,4.97
+Microwave Oven,230,949.13,0.16,2.73
+Geyser,230,2944.82,0.5,9.41
+Laptop/Computer,230,381.86,5.84,2.7
+Iron,230,1455.32,0.16,2.39
+Fan,230,85.78,6.41,24.01
+Air Conditioner,230,1943.31,4.08,48.84
+Refrigerator,230,495.78,24.0,9.2
+LED Bulb,230,10.86,4.76,8.19
+Television,230,52.48,3.1,4.34
+Washing Machine,230,1492.62,2.6,4.99
+Microwave Oven,230,984.79,0.2,2.51
+Geyser,230,2705.72,0.56,8.81
+Laptop/Computer,230,393.02,4.97,2.39
+Iron,230,1056.39,0.25,2.23
+Fan,230,87.13,6.07,23.68
+Air Conditioner,230,1775.04,5.2,49.0
+Refrigerator,230,317.25,24.0,9.71
+LED Bulb,230,15.66,8.47,8.34
+Television,230,67.66,3.92,3.67
+Washing Machine,230,600.67,1.91,4.55
+Microwave Oven,230,1025.48,0.16,2.51
+Geyser,230,2812.15,0.52,9.13
+Laptop/Computer,230,177.73,5.33,2.65
+Iron,230,1212.63,0.22,2.67
+Fan,230,82.12,6.71,19.48
+Air Conditioner,230,1576.4,4.5,42.44
+Refrigerator,230,290.77,24.0,8.39
+LED Bulb,230,8.99,5.03,7.42
+Television,230,63.68,3.48,4.86
+Washing Machine,230,567.58,1.22,3.15
+Microwave Oven,230,865.05,0.21,2.28
+Geyser,230,2834.35,0.81,9.34
+Laptop/Computer,230,572.69,8.36,2.11
+Iron,230,1473.38,0.24,2.94
+Fan,230,74.48,7.7,24.73
+Air Conditioner,230,1521.09,4.93,41.22
+Refrigerator,230,289.28,24.0,8.62
+LED Bulb,230,9.35,5.76,6.72
+Television,230,77.1,4.53,4.57
+Washing Machine,230,626.45,1.96,4.63
+Microwave Oven,230,812.24,0.17,2.38
+Geyser,230,2837.63,0.9,9.45
+Laptop/Computer,230,362.27,5.79,2.39
+Iron,230,1495.62,0.22,2.8
+Fan,230,72.0,7.11,16.1
+Air Conditioner,230,1559.28,5.54,49.54
+Refrigerator,230,789.0,24.0,9.35
+LED Bulb,230,10.09,5.16,8.17
+Television,230,55.98,4.1,4.92
+Washing Machine,230,690.14,1.81,3.4
+Microwave Oven,230,1580.48,0.37,2.69
+Geyser,230,2346.41,0.53,8.65
+Laptop/Computer,230,157.11,4.28,2.95
+Iron,230,1409.37,0.24,2.23
+Fan,230,88.22,6.5,16.81
+Air Conditioner,230,1648.3,4.1,41.05
+Refrigerator,230,299.21,24.0,9.81
+LED Bulb,230,8.34,5.44,6.04
+Television,230,97.88,3.43,4.87
+Washing Machine,230,813.61,1.52,3.75
+Microwave Oven,230,844.92,0.18,2.57
+Geyser,230,2619.38,0.73,8.38
+Laptop/Computer,230,79.4,5.06,2.45
+Iron,230,1343.26,0.22,2.97
+Fan,230,70.71,7.39,17.64
+Air Conditioner,230,1669.27,5.06,42.47
+Refrigerator,230,226.78,24.0,9.36
+LED Bulb,230,9.06,5.56,7.12
+Television,230,128.22,4.28,4.14
+Washing Machine,230,900.82,1.26,4.29
+Microwave Oven,230,918.58,0.19,2.74
+Geyser,230,2164.58,0.67,9.13
+Laptop/Computer,230,73.69,4.64,2.5
+Iron,230,1360.35,0.2,2.7
+Fan,230,87.05,7.63,19.16
+Air Conditioner,230,1796.83,4.65,45.36
+Refrigerator,230,975.54,29.45,9.69
+LED Bulb,230,15.32,7.56,8.89
+Television,230,93.97,4.03,4.21
+Washing Machine,230,951.14,1.11,3.84
+Microwave Oven,230,1055.73,0.2,2.11
+Geyser,230,2380.84,0.75,9.29
+Laptop/Computer,230,160.47,5.24,2.08
+Iron,230,1431.07,0.2,2.71
+Fan,230,80.96,7.42,23.28
+Air Conditioner,230,1634.85,6.0,41.87
+Refrigerator,230,707.43,24.0,9.46
+LED Bulb,230,7.85,5.03,5.79
+Television,230,147.07,4.6,4.76
+Washing Machine,230,936.49,1.79,3.53
+Microwave Oven,230,1179.74,0.18,2.07
+Geyser,230,2132.75,0.95,8.05
+Laptop/Computer,230,338.92,4.22,2.75
+Iron,230,1346.67,0.18,2.88
+Fan,230,81.96,7.55,19.55
+Air Conditioner,230,1612.89,5.23,49.63
+Refrigerator,230,373.52,24.0,8.41
+LED Bulb,230,8.83,4.87,6.66
+Television,230,127.91,4.6,3.9
+Washing Machine,230,526.6,1.71,3.01
+Microwave Oven,230,810.05,0.22,2.16
+Geyser,230,2742.04,0.9,9.19
+Laptop/Computer,230,180.12,5.36,2.63
+Iron,230,1454.64,0.23,2.84
+Fan,230,88.85,6.56,21.81
+Air Conditioner,230,1619.93,5.18,42.34
+Refrigerator,230,1081.63,33.9,9.38
+LED Bulb,230,11.72,5.92,8.51
+Television,230,89.88,3.74,3.52
+Washing Machine,230,658.79,1.57,4.12
+Microwave Oven,230,1195.59,0.2,2.87
+Geyser,230,2809.44,0.84,9.72
+Laptop/Computer,230,54.33,4.82,2.27
+Iron,230,1421.06,0.24,2.29
+Fan,230,74.74,7.11,17.54
+Air Conditioner,230,1509.29,5.1,48.5
+Refrigerator,230,420.57,24.0,9.87
+LED Bulb,230,17.49,7.43,5.96
+Television,230,215.94,7.03,3.79
+Washing Machine,230,865.91,1.83,3.29
+Microwave Oven,230,862.3,0.18,2.9
+Geyser,230,2197.65,0.68,9.16
+Laptop/Computer,230,67.13,4.98,2.42
+Iron,230,1094.16,0.21,2.39
+Fan,230,73.83,6.29,16.72
+Air Conditioner,230,2898.25,8.77,48.24
+Refrigerator,230,587.35,24.0,9.83
+LED Bulb,230,10.27,5.77,6.37
+Television,230,71.12,4.7,3.4
+Washing Machine,230,593.63,1.23,4.47
+Microwave Oven,230,1659.11,0.3,2.88
+Geyser,230,2105.48,0.56,8.39
+Laptop/Computer,230,534.49,8.03,2.37
+Iron,230,1349.9,0.21,2.2
+Fan,230,88.8,6.57,17.42
+Air Conditioner,230,1651.64,5.9,48.58
+Refrigerator,230,645.73,24.0,8.96
+LED Bulb,230,9.45,5.22,6.4
+Television,230,89.02,3.99,3.9
+Washing Machine,230,716.85,1.36,4.97
+Microwave Oven,230,1170.77,0.22,2.62
+Geyser,230,2316.24,0.68,8.17
+Laptop/Computer,230,209.04,5.46,2.77
+Iron,230,1113.18,0.18,2.34
+Fan,230,78.87,6.03,19.5
+Air Conditioner,230,1996.63,5.11,45.3
+Refrigerator,230,786.26,24.0,8.22
+LED Bulb,230,11.4,4.75,7.05
+Television,230,104.08,3.48,4.42
+Washing Machine,230,609.76,1.21,3.48
+Microwave Oven,230,1007.86,0.21,2.35
+Geyser,230,3663.5,1.21,8.69
+Laptop/Computer,230,278.19,5.98,2.79
+Iron,230,2204.69,0.32,2.5
+Fan,230,89.23,7.07,17.48
+Air Conditioner,230,1815.43,5.64,49.66
+Refrigerator,230,144.5,24.0,8.46
+LED Bulb,230,15.05,7.51,8.71
+Television,230,100.78,4.25,4.95
+Washing Machine,230,948.34,1.76,4.88
+Microwave Oven,230,925.54,0.18,2.68
+Geyser,230,2070.61,1.0,9.04
+Laptop/Computer,230,213.7,5.47,2.89
+Iron,230,1041.2,0.19,2.25
+Fan,230,76.63,7.34,17.07
+Air Conditioner,230,2417.82,8.39,46.28
+Refrigerator,230,189.35,24.0,8.68
+LED Bulb,230,9.55,5.26,8.71
+Television,230,97.72,4.26,4.85
+Washing Machine,230,518.07,1.6,4.39
+Microwave Oven,230,1128.16,0.2,2.4
+Geyser,230,2975.17,0.98,8.87
+Laptop/Computer,230,245.82,5.19,2.55
+Iron,230,1276.87,0.19,2.22
+Fan,230,83.7,6.01,19.33
+Air Conditioner,230,1774.41,5.4,46.95
+Refrigerator,230,457.79,24.0,8.36
+LED Bulb,230,8.07,4.22,8.59
+Television,230,119.98,4.05,4.48
+Washing Machine,230,653.58,1.99,3.06
+Microwave Oven,230,1456.67,0.35,2.66
+Geyser,230,2981.38,0.72,8.13
+Laptop/Computer,230,360.04,5.76,2.33
+Iron,230,1179.95,0.23,2.43
+Fan,230,81.57,6.33,23.61
+Air Conditioner,230,1503.38,4.53,40.03
+Refrigerator,230,776.67,24.0,9.02
+LED Bulb,230,10.61,4.49,9.52
+Television,230,99.91,3.3,3.81
+Washing Machine,230,610.33,1.49,4.82
+Microwave Oven,230,838.19,0.19,2.5
+Geyser,230,2743.22,0.74,9.6
+Laptop/Computer,230,118.83,5.23,2.7
+Iron,230,2241.56,0.32,2.53
+Fan,230,115.73,10.91,16.57
+Air Conditioner,230,1659.58,4.67,49.39
+Refrigerator,230,754.62,24.0,9.57
+LED Bulb,230,9.52,5.41,6.61
+Television,230,75.71,4.92,4.92
+Washing Machine,230,655.73,1.05,3.33
+Microwave Oven,230,1589.85,0.33,2.93
+Geyser,230,2665.7,0.8,9.49
+Laptop/Computer,230,185.94,5.47,2.34
+Iron,230,1310.15,0.25,2.69
+Fan,230,73.22,7.46,21.32
+Air Conditioner,230,1819.22,4.64,42.73
+Refrigerator,230,502.75,24.0,8.67
+LED Bulb,230,15.9,7.7,9.3
+Television,230,78.39,4.48,3.79
+Washing Machine,230,964.39,1.23,4.6
+Microwave Oven,230,839.55,0.23,2.24
+Geyser,230,4158.33,1.25,8.24
+Laptop/Computer,230,68.5,4.08,2.28
+Iron,230,1214.72,0.24,2.76
+Fan,230,128.7,10.01,22.19
+Air Conditioner,230,1541.71,4.43,48.75
+Refrigerator,230,397.14,24.0,8.97
+LED Bulb,230,7.74,4.49,6.49
+Television,230,50.86,4.99,3.12
+Washing Machine,230,761.32,1.81,3.58
+Microwave Oven,230,1155.92,0.17,2.71
+Geyser,230,2082.14,0.95,9.28
+Laptop/Computer,230,318.43,5.27,2.83
+Iron,230,1186.61,0.19,2.0
+Fan,230,71.15,6.78,21.05
+Air Conditioner,230,1504.19,5.92,48.95
+Refrigerator,230,669.47,24.0,9.86
+LED Bulb,230,11.8,5.75,8.8
+Television,230,91.15,3.67,4.36
+Washing Machine,230,959.5,1.6,3.37
+Microwave Oven,230,890.94,0.22,2.09
+Geyser,230,2640.49,0.62,9.36
+Laptop/Computer,230,384.32,5.87,2.12
+Iron,230,1372.49,0.18,2.23
+Fan,230,79.67,7.27,23.16
+Air Conditioner,230,2884.21,7.92,46.45
+Refrigerator,230,342.59,24.0,8.27
+LED Bulb,230,9.13,5.51,6.21
+Television,230,126.13,4.94,4.21
+Washing Machine,230,960.93,1.84,3.68
+Microwave Oven,230,1049.1,0.22,2.88
+Geyser,230,2179.51,0.65,9.12
+Laptop/Computer,230,152.6,4.69,2.27
+Iron,230,1077.14,0.23,2.27
+Fan,230,87.75,7.58,19.96
+Air Conditioner,230,1522.99,5.97,41.77
+Refrigerator,230,565.28,24.0,8.02
+LED Bulb,230,10.15,4.53,6.87
+Television,230,113.74,4.02,3.96
+Washing Machine,230,998.06,1.98,3.04
+Microwave Oven,230,1007.16,0.2,2.66
+Geyser,230,2007.57,0.93,9.0
+Laptop/Computer,230,336.99,5.66,2.11
+Iron,230,2147.2,0.32,2.37
+Fan,230,88.88,6.43,16.17
+Air Conditioner,230,2465.53,7.43,43.38
+Refrigerator,230,599.44,24.0,8.56
+LED Bulb,230,11.73,5.37,9.98
+Television,230,103.72,4.25,3.1
+Washing Machine,230,874.56,1.87,4.67
+Microwave Oven,230,994.45,0.19,2.42
+Geyser,230,2162.64,0.83,9.36
+Laptop/Computer,230,138.78,4.55,2.16
+Iron,230,1446.96,0.19,2.59
+Fan,230,89.25,6.97,16.96
+Air Conditioner,230,1989.09,5.13,45.81
+Refrigerator,230,612.77,24.0,8.75
+LED Bulb,230,9.86,4.07,7.42
+Television,230,114.09,3.53,4.1
+Washing Machine,230,973.89,1.71,3.14
+Microwave Oven,230,1530.05,0.31,2.22
+Geyser,230,2380.78,0.77,8.31
+Laptop/Computer,230,80.66,4.51,2.8
+Iron,230,1062.15,0.17,2.93
+Fan,230,87.87,7.43,17.6
+Air Conditioner,230,1510.54,5.12,49.34
+Refrigerator,230,735.86,24.0,9.43
+LED Bulb,230,8.7,5.09,7.67
+Television,230,54.96,4.79,3.62
+Washing Machine,230,1282.62,2.56,4.16
+Microwave Oven,230,885.12,0.2,2.54
+Geyser,230,2902.98,0.91,9.58
+Laptop/Computer,230,120.7,5.98,2.74
+Iron,230,1023.74,0.21,2.0
+Fan,230,81.86,6.9,22.2
+Air Conditioner,230,2434.75,8.49,40.1
+Refrigerator,230,661.57,24.0,9.65
+LED Bulb,230,11.69,5.96,6.57
+Television,230,73.55,4.61,3.05
+Washing Machine,230,865.03,1.99,3.06
+Microwave Oven,230,1105.81,0.23,2.48
+Geyser,230,2000.09,0.9,8.79
+Laptop/Computer,230,374.34,4.68,2.97
+Iron,230,1257.93,0.19,2.95
+Fan,230,110.98,9.71,20.0
+Air Conditioner,230,1813.38,5.14,44.31
+Refrigerator,230,466.42,24.0,9.33
+LED Bulb,230,9.74,4.61,5.01
+Television,230,123.18,4.25,3.97
+Washing Machine,230,672.75,1.35,4.54
+Microwave Oven,230,1486.62,0.31,2.22
+Geyser,230,2407.4,0.58,9.8
+Laptop/Computer,230,182.3,4.41,2.1
+Iron,230,1285.35,0.18,2.82
+Fan,230,87.08,7.2,15.7
+Air Conditioner,230,1630.14,4.25,42.49
+Refrigerator,230,428.66,24.0,9.75
+LED Bulb,230,9.42,4.8,7.29
+Television,230,51.41,3.84,3.61
+Washing Machine,230,1434.66,2.88,3.78
+Microwave Oven,230,1043.93,0.22,2.44
+Geyser,230,2761.28,0.76,8.77
+Laptop/Computer,230,332.19,5.27,2.63
+Iron,230,2115.32,0.37,2.92
+Fan,230,88.54,6.65,22.78
+Air Conditioner,230,1916.57,4.2,43.94
+Refrigerator,230,1081.73,32.75,8.74
+LED Bulb,230,8.37,5.68,7.37
+Television,230,146.33,3.94,4.58
+Washing Machine,230,784.34,1.72,4.4
+Microwave Oven,230,1002.83,0.17,2.64
+Geyser,230,2997.85,0.54,8.91
+Laptop/Computer,230,364.12,5.99,2.05
+Iron,230,1105.61,0.18,2.37
+Fan,230,75.77,6.25,23.71
+Air Conditioner,230,1913.55,5.44,49.47
+Refrigerator,230,202.45,24.0,9.51
+LED Bulb,230,11.52,4.28,5.96
+Television,230,143.83,4.99,4.89
+Washing Machine,230,829.77,1.96,4.85
+Microwave Oven,230,815.39,0.17,2.2
+Geyser,230,2306.0,0.85,9.4
+Laptop/Computer,230,331.91,5.64,2.96
+Iron,230,1359.25,0.21,2.45
+Fan,230,71.71,7.9,24.35
+Air Conditioner,230,2827.35,8.48,41.3
+Refrigerator,230,583.93,24.0,8.17
+LED Bulb,230,8.24,4.89,6.17
+Television,230,58.83,3.92,4.15
+Washing Machine,230,816.29,1.57,4.26
+Microwave Oven,230,987.21,0.24,2.02
+Geyser,230,2369.09,0.76,9.01
+Laptop/Computer,230,160.31,5.29,2.4
+Iron,230,1000.21,0.18,2.83
+Fan,230,121.84,11.54,15.15
+Air Conditioner,230,1785.59,5.25,47.27
+Refrigerator,230,125.79,24.0,9.53
+LED Bulb,230,10.75,5.56,9.79
+Television,230,82.13,4.35,4.77
+Washing Machine,230,736.64,1.89,3.5
+Microwave Oven,230,962.66,0.22,2.6
+Geyser,230,2384.0,0.9,9.49
+Laptop/Computer,230,384.61,4.17,2.44
+Iron,230,1218.51,0.24,2.82
+Fan,230,83.27,7.59,19.24
+Air Conditioner,230,2789.27,8.73,43.72
+Refrigerator,230,799.69,24.0,9.94
+LED Bulb,230,8.57,4.76,8.25
+Television,230,135.61,4.77,4.18
+Washing Machine,230,567.51,1.65,3.94
+Microwave Oven,230,1136.92,0.23,2.42
+Geyser,230,2148.94,0.73,9.6
+Laptop/Computer,230,216.65,5.89,2.03
+Iron,230,1316.29,0.16,2.61
+Fan,230,70.87,7.88,18.12
+Air Conditioner,230,1821.58,4.56,48.03
+Refrigerator,230,521.48,24.0,8.48
+LED Bulb,230,10.71,5.15,5.94
+Television,230,79.51,3.31,3.29
+Washing Machine,230,715.93,1.45,4.72
+Microwave Oven,230,1070.44,0.25,2.83
+Geyser,230,2558.47,0.67,8.29
+Laptop/Computer,230,390.49,4.2,2.29
+Iron,230,1351.99,0.2,2.41
+Fan,230,85.46,6.89,21.15
+Air Conditioner,230,1554.17,4.86,41.74
+Refrigerator,230,998.61,34.88,8.33
+LED Bulb,230,9.39,4.56,9.11
+Television,230,68.1,4.73,4.01
+Washing Machine,230,601.28,1.59,3.48
+Microwave Oven,230,860.41,0.22,2.62
+Geyser,230,2096.35,0.63,8.8
+Laptop/Computer,230,97.84,5.13,2.38
+Iron,230,1364.19,0.18,2.34
+Fan,230,86.17,6.85,17.72
+Air Conditioner,230,1826.85,4.97,42.86
+Refrigerator,230,767.28,24.0,8.17
+LED Bulb,230,9.79,4.59,5.78
+Television,230,53.53,3.12,4.66
+Washing Machine,230,871.43,1.57,3.46
+Microwave Oven,230,809.76,0.24,2.26
+Geyser,230,2145.44,0.58,9.39
+Laptop/Computer,230,125.0,4.56,2.84
+Iron,230,1450.39,0.21,2.12
+Fan,230,114.83,11.33,15.86
+Air Conditioner,230,1627.41,4.0,41.47
+Refrigerator,230,1103.14,35.36,9.51
+LED Bulb,230,10.45,5.65,9.46
+Television,230,134.99,3.73,4.36
+Washing Machine,230,1376.66,2.61,4.84
+Microwave Oven,230,1449.83,0.37,2.92
+Geyser,230,2813.26,0.88,8.39
+Laptop/Computer,230,196.15,5.97,2.3
+Iron,230,1349.64,0.24,2.14
+Fan,230,73.54,6.01,24.08
+Air Conditioner,230,1741.42,4.9,42.08
+Refrigerator,230,651.6,24.0,9.21
+LED Bulb,230,8.32,4.74,6.95
+Television,230,139.95,3.83,4.04
+Washing Machine,230,762.72,1.94,3.49
+Microwave Oven,230,1597.69,0.33,2.67
+Geyser,230,2145.03,0.71,8.02
+Laptop/Computer,230,396.89,4.99,2.17
+Iron,230,1370.22,0.18,2.97
+Fan,230,82.13,6.61,19.4
+Air Conditioner,230,1693.36,4.23,46.11
+Refrigerator,230,269.07,24.0,8.65
+LED Bulb,230,7.16,5.95,9.0
+Television,230,86.18,4.36,4.76
+Washing Machine,230,761.03,1.03,4.22
+Microwave Oven,230,1769.83,0.33,2.43
+Geyser,230,4423.94,1.27,8.28
+Laptop/Computer,230,233.33,5.27,2.91
+Iron,230,2085.09,0.31,2.97
+Fan,230,88.84,7.39,22.46
+Air Conditioner,230,1870.4,5.09,45.29
+Refrigerator,230,719.87,24.0,9.1
+LED Bulb,230,7.86,5.32,6.94
+Television,230,67.68,3.12,3.52
+Washing Machine,230,766.0,1.42,4.74
+Microwave Oven,230,929.27,0.19,2.4
+Geyser,230,4404.56,1.31,8.29
+Laptop/Computer,230,244.95,5.61,2.53
+Iron,230,1319.96,0.2,2.91
+Fan,230,82.95,7.22,19.84
+Air Conditioner,230,1778.83,5.58,48.91
+Refrigerator,230,754.56,24.0,9.37
+LED Bulb,230,10.99,5.47,5.02
+Television,230,57.21,3.52,4.4
+Washing Machine,230,587.33,1.47,4.0
+Microwave Oven,230,817.94,0.18,2.13
+Geyser,230,2003.83,0.56,8.86
+Laptop/Computer,230,374.46,5.86,2.96
+Iron,230,1062.52,0.2,2.48
+Fan,230,71.77,6.54,21.74
+Air Conditioner,230,1905.46,4.5,46.49
+Refrigerator,230,793.07,24.0,8.73
+LED Bulb,230,8.13,4.47,8.55
+Television,230,77.53,3.7,4.98
+Washing Machine,230,572.17,1.98,4.42
+Microwave Oven,230,1067.77,0.18,2.53
+Geyser,230,2531.25,0.84,8.55
+Laptop/Computer,230,308.41,4.68,2.14
+Iron,230,1472.01,0.18,2.18
+Fan,230,74.06,7.87,19.3
+Air Conditioner,230,2869.41,7.22,40.07
+Refrigerator,230,675.48,24.0,8.91
+LED Bulb,230,16.88,8.84,7.31
+Television,230,107.64,3.99,3.71
+Washing Machine,230,945.91,1.55,3.68
+Microwave Oven,230,801.76,0.2,2.47
+Geyser,230,2839.33,0.84,8.55
+Laptop/Computer,230,358.4,5.64,2.79
+Iron,230,1197.02,0.18,2.94
+Fan,230,83.13,6.27,17.25
+Air Conditioner,230,2702.86,7.8,43.55
+Refrigerator,230,607.14,24.0,8.36
+LED Bulb,230,11.19,4.22,7.88
+Television,230,106.85,3.33,4.12
+Washing Machine,230,895.3,1.94,3.64
+Microwave Oven,230,1491.06,0.32,2.52
+Geyser,230,2040.57,0.74,9.95
+Laptop/Computer,230,170.48,5.62,2.72
+Iron,230,1107.98,0.24,2.11
+Fan,230,75.44,6.56,22.68
+Air Conditioner,230,2544.89,8.16,46.34
+Refrigerator,230,312.28,24.0,9.96
+LED Bulb,230,7.67,5.83,9.27
+Television,230,74.01,3.91,4.71
+Washing Machine,230,540.04,1.09,4.42
+Microwave Oven,230,1125.21,0.18,2.61
+Geyser,230,2837.9,0.54,8.19
+Laptop/Computer,230,294.04,5.55,2.99
+Iron,230,1154.61,0.17,2.39
+Fan,230,77.3,6.3,19.99
+Air Conditioner,230,1601.2,4.89,47.26
+Refrigerator,230,309.39,24.0,9.17
+LED Bulb,230,11.24,4.92,9.97
+Television,230,90.64,3.81,3.46
+Washing Machine,230,728.87,1.34,4.67
+Microwave Oven,230,973.49,0.24,2.37
+Geyser,230,2289.7,0.87,8.94
+Laptop/Computer,230,84.06,4.3,2.76
+Iron,230,1249.09,0.18,2.25
+Fan,230,71.99,7.2,16.19
+Air Conditioner,230,1869.23,4.01,43.83
+Refrigerator,230,1023.31,29.38,8.52
+LED Bulb,230,7.31,4.09,6.98
+Television,230,215.51,7.14,3.74
+Washing Machine,230,1319.09,2.66,3.55
+Microwave Oven,230,1184.12,0.16,2.24
+Geyser,230,4071.75,1.3,9.11
+Laptop/Computer,230,356.87,4.46,2.52
+Iron,230,1003.46,0.18,2.83
+Fan,230,80.29,7.71,22.9
+Air Conditioner,230,2886.67,7.28,47.14
+Refrigerator,230,627.46,24.0,8.26
+LED Bulb,230,16.87,7.56,7.0
+Television,230,65.18,3.86,4.58
+Washing Machine,230,949.3,1.93,5.0
+Microwave Oven,230,1032.09,0.19,2.48
+Geyser,230,2817.19,0.5,9.86
+Laptop/Computer,230,231.73,4.08,2.96
+Iron,230,1383.89,0.22,2.22
+Fan,230,118.85,10.65,18.78
+Air Conditioner,230,1922.22,5.54,48.7
+Refrigerator,230,659.51,24.0,9.24
+LED Bulb,230,7.61,5.88,6.4
+Television,230,141.5,3.12,4.54
+Washing Machine,230,549.16,1.2,3.04
+Microwave Oven,230,1725.82,0.33,2.9
+Geyser,230,2081.05,0.82,8.57
+Laptop/Computer,230,211.55,5.79,2.69
+Iron,230,1073.65,0.2,2.61
+Fan,230,70.83,7.77,16.72
+Air Conditioner,230,2589.88,7.84,49.49
+Refrigerator,230,1187.37,31.12,8.47
+LED Bulb,230,10.39,4.12,5.15
+Television,230,69.16,3.25,4.34
+Washing Machine,230,565.03,1.82,4.77
+Microwave Oven,230,1111.63,0.23,2.05
+Geyser,230,2351.16,0.73,9.41
+Laptop/Computer,230,238.59,4.92,2.46
+Iron,230,1354.31,0.17,2.02
+Fan,230,75.9,7.64,21.38
+Air Conditioner,230,1683.17,5.83,47.04
+Refrigerator,230,272.6,24.0,8.27
+LED Bulb,230,8.25,5.2,7.0
+Television,230,107.24,3.31,3.51
+Washing Machine,230,793.36,1.29,4.92
+Microwave Oven,230,1031.59,0.19,2.97
+Geyser,230,2698.57,0.67,9.07
+Laptop/Computer,230,377.42,4.21,2.44
+Iron,230,1384.85,0.21,2.32
+Fan,230,88.81,6.26,16.28
+Air Conditioner,230,1651.19,4.78,42.71
+Refrigerator,230,325.43,24.0,8.73
+LED Bulb,230,8.36,4.54,9.63
+Television,230,93.43,3.02,3.8
+Washing Machine,230,988.57,1.4,4.85
+Microwave Oven,230,1013.16,0.25,2.93
+Geyser,230,4109.31,1.3,9.46
+Laptop/Computer,230,257.98,5.43,2.66
+Iron,230,1351.35,0.18,2.35
+Fan,230,76.63,7.12,22.54
+Air Conditioner,230,1566.57,5.73,49.48
+Refrigerator,230,429.82,24.0,10.0
+LED Bulb,230,8.76,5.77,7.45
+Television,230,86.81,3.63,3.19
+Washing Machine,230,727.14,1.89,3.99
+Microwave Oven,230,1082.6,0.17,2.71
+Geyser,230,2788.94,0.75,8.51
+Laptop/Computer,230,385.08,5.83,2.53
+Iron,230,1487.28,0.19,2.26
+Fan,230,72.05,7.17,15.34
+Air Conditioner,230,1828.07,5.49,43.43
+Refrigerator,230,1020.68,32.5,9.49
+LED Bulb,230,7.45,4.41,7.85
+Television,230,121.09,4.9,3.81
+Washing Machine,230,640.5,1.53,3.02
+Microwave Oven,230,928.78,0.17,2.57
+Geyser,230,2533.35,0.78,8.67
+Laptop/Computer,230,365.92,4.41,2.72
+Iron,230,1990.69,0.32,3.0
+Fan,230,73.4,7.01,17.88
+Air Conditioner,230,1847.37,5.31,44.06
+Refrigerator,230,795.74,24.0,8.56
+LED Bulb,230,9.96,5.09,7.4
+Television,230,89.14,4.79,4.98
+Washing Machine,230,862.02,1.76,3.98
+Microwave Oven,230,1004.74,0.17,2.89
+Geyser,230,2318.12,0.55,8.81
+Laptop/Computer,230,185.19,5.09,2.66
+Iron,230,1140.0,0.19,2.6
+Fan,230,76.61,7.11,17.95
+Air Conditioner,230,2451.16,8.23,48.65
+Refrigerator,230,284.02,24.0,8.45
+LED Bulb,230,11.6,4.06,8.29
+Television,230,131.15,3.29,4.68
+Washing Machine,230,717.9,1.24,4.45
+Microwave Oven,230,1618.07,0.32,2.18
+Geyser,230,2993.94,0.92,8.54
+Laptop/Computer,230,590.18,7.67,2.33
+Iron,230,1384.6,0.19,2.5
+Fan,230,89.11,6.75,17.63
+Air Conditioner,230,1630.5,5.89,44.9
+Refrigerator,230,640.59,24.0,8.7
+LED Bulb,230,10.58,5.21,5.95
+Television,230,60.63,3.65,4.74
+Washing Machine,230,814.58,1.17,3.59
+Microwave Oven,230,898.33,0.24,2.75
+Geyser,230,2422.89,0.83,8.1
+Laptop/Computer,230,266.26,5.78,2.5
+Iron,230,1162.73,0.23,2.54
+Fan,230,72.67,6.25,15.36
+Air Conditioner,230,1542.49,5.52,45.25
+Refrigerator,230,557.0,24.0,9.95
+LED Bulb,230,7.82,4.11,5.35
+Television,230,115.81,3.93,3.98
+Washing Machine,230,501.7,1.89,3.0
+Microwave Oven,230,1190.68,0.17,2.82
+Geyser,230,2428.9,0.75,8.29
+Laptop/Computer,230,126.72,4.54,2.82
+Iron,230,1099.0,0.19,2.62
+Fan,230,73.15,7.94,23.46
+Air Conditioner,230,1600.3,5.39,48.02
+Refrigerator,230,420.73,24.0,8.17
+LED Bulb,230,7.64,5.67,8.94
+Television,230,123.14,3.55,3.02
+Washing Machine,230,921.0,1.33,3.54
+Microwave Oven,230,1056.67,0.25,2.17
+Geyser,230,4179.67,1.49,9.75
+Laptop/Computer,230,296.02,4.0,2.32
+Iron,230,1182.9,0.17,2.16
+Fan,230,75.12,7.66,15.03
+Air Conditioner,230,1931.36,4.81,42.05
+Refrigerator,230,560.65,24.0,9.73
+LED Bulb,230,7.97,4.58,7.88
+Television,230,105.98,4.91,4.23
+Washing Machine,230,947.23,1.8,3.81
+Microwave Oven,230,1009.49,0.21,2.56
+Geyser,230,2625.54,0.77,8.59
+Laptop/Computer,230,561.08,8.11,2.16
+Iron,230,1403.08,0.22,2.13
+Fan,230,71.06,7.51,22.05
+Air Conditioner,230,1899.17,4.74,44.4
+Refrigerator,230,556.79,24.0,9.87
+LED Bulb,230,11.36,5.57,8.01
+Television,230,111.16,3.59,4.37
+Washing Machine,230,795.42,1.49,4.04
+Microwave Oven,230,985.47,0.23,2.88
+Geyser,230,2413.88,0.66,8.77
+Laptop/Computer,230,384.36,5.44,2.77
+Iron,230,1429.64,0.17,2.83
+Fan,230,83.97,6.33,19.25
+Air Conditioner,230,2738.03,8.26,45.93
+Refrigerator,230,591.88,24.0,8.64
+LED Bulb,230,11.28,5.61,7.92
+Television,230,127.49,4.0,3.54
+Washing Machine,230,1273.47,2.53,3.63
+Microwave Oven,230,1189.99,0.17,2.66
+Geyser,230,2005.76,0.97,9.41
+Laptop/Computer,230,151.71,4.92,2.78
+Iron,230,1294.78,0.22,2.66
+Fan,230,82.18,6.84,21.08
+Air Conditioner,230,1860.69,4.93,46.47
+Refrigerator,230,348.79,24.0,9.4
+LED Bulb,230,10.12,4.25,5.54
+Television,230,138.67,3.06,4.21
+Washing Machine,230,730.84,1.52,4.34
+Microwave Oven,230,1193.55,0.17,2.52
+Geyser,230,2418.26,0.62,8.84
+Laptop/Computer,230,52.44,4.7,2.54
+Iron,230,1177.78,0.2,2.01
+Fan,230,112.85,11.18,23.85
+Air Conditioner,230,1644.73,4.42,49.99
+Refrigerator,230,209.64,24.0,8.45
+LED Bulb,230,8.0,5.77,5.48
+Television,230,115.78,4.14,3.66
+Washing Machine,230,749.04,1.55,4.91
+Microwave Oven,230,875.16,0.16,2.41
+Geyser,230,2575.07,0.81,9.15
+Laptop/Computer,230,384.29,5.36,2.94
+Iron,230,1413.61,0.22,2.98
+Fan,230,82.55,7.65,19.7
+Air Conditioner,230,1870.97,5.73,47.93
+Refrigerator,230,783.16,24.0,9.04
+LED Bulb,230,9.56,4.26,6.06
+Television,230,81.54,4.05,4.04
+Washing Machine,230,793.5,1.32,3.7
+Microwave Oven,230,1129.22,0.2,2.46
+Geyser,230,2675.74,0.98,9.81
+Laptop/Computer,230,173.71,5.97,2.55
+Iron,230,1300.77,0.22,2.15
+Fan,230,78.16,7.44,17.42
+Air Conditioner,230,1705.58,4.67,46.2
+Refrigerator,230,111.07,24.0,8.48
+LED Bulb,230,10.4,4.27,8.67
+Television,230,56.78,4.31,4.37
+Washing Machine,230,1307.68,2.54,4.18
+Microwave Oven,230,1170.39,0.19,2.53
+Geyser,230,2054.32,0.72,9.25
+Laptop/Computer,230,175.84,5.69,2.39
+Iron,230,1295.43,0.17,2.65
+Fan,230,82.82,7.6,18.42
+Air Conditioner,230,1861.35,4.2,48.87
+Refrigerator,230,502.85,24.0,9.97
+LED Bulb,230,16.87,7.58,7.27
+Television,230,54.33,3.79,4.16
+Washing Machine,230,706.95,1.11,3.65
+Microwave Oven,230,1074.59,0.23,2.58
+Geyser,230,2709.13,0.99,8.14
+Laptop/Computer,230,260.28,4.18,2.45
+Iron,230,1458.29,0.2,2.76
+Fan,230,82.47,6.54,16.05
+Air Conditioner,230,1517.19,5.12,45.59
+Refrigerator,230,238.54,24.0,9.47
+LED Bulb,230,7.38,5.26,6.97
+Television,230,129.48,4.42,4.24
+Washing Machine,230,618.71,1.07,3.97
+Microwave Oven,230,1116.77,0.16,2.36
+Geyser,230,2614.49,0.73,9.38
+Laptop/Computer,230,138.59,5.44,2.7
+Iron,230,1430.84,0.19,2.75
+Fan,230,84.74,6.19,18.8
+Air Conditioner,230,1614.17,4.04,46.85
+Refrigerator,230,381.53,24.0,8.51
+LED Bulb,230,9.43,5.62,8.44
+Television,230,119.61,3.54,3.96
+Washing Machine,230,1474.07,2.93,3.72
+Microwave Oven,230,1164.71,0.18,2.4
+Geyser,230,2225.66,0.58,9.19
+Laptop/Computer,230,250.3,4.57,2.28
+Iron,230,2196.44,0.3,2.86
+Fan,230,128.97,10.61,17.12
+Air Conditioner,230,1954.71,4.73,43.92
+Refrigerator,230,183.25,24.0,9.71
+LED Bulb,230,10.66,5.53,6.34
+Television,230,124.75,4.28,4.64
+Washing Machine,230,550.15,1.34,4.64
+Microwave Oven,230,820.08,0.19,2.26
+Geyser,230,2737.02,0.75,8.9
+Laptop/Computer,230,163.19,4.71,2.17
+Iron,230,1341.14,0.24,2.69
+Fan,230,78.95,7.89,24.74
+Air Conditioner,230,1917.5,4.47,47.45
+Refrigerator,230,440.74,24.0,9.15
+LED Bulb,230,10.16,4.43,8.71
+Television,230,212.99,6.48,3.05
+Washing Machine,230,752.45,1.23,4.68
+Microwave Oven,230,841.11,0.18,2.4
+Geyser,230,2250.21,0.79,8.86
+Laptop/Computer,230,221.31,4.72,2.64
+Iron,230,1043.71,0.18,2.19
+Fan,230,81.59,7.3,17.91
+Air Conditioner,230,1757.6,4.1,43.98
+Refrigerator,230,249.23,24.0,9.51
+LED Bulb,230,9.18,5.61,6.28
+Television,230,61.15,3.28,3.96
+Washing Machine,230,570.73,1.81,4.32
+Microwave Oven,230,970.22,0.16,2.69
+Geyser,230,2740.9,0.96,8.93
+Laptop/Computer,230,219.58,4.85,2.35
+Iron,230,1415.86,0.25,2.09
+Fan,230,88.09,7.13,15.95
+Air Conditioner,230,1799.81,4.42,46.74
+Refrigerator,230,589.44,24.0,8.01
+LED Bulb,230,8.92,5.69,8.49
+Television,230,203.24,7.31,4.36
+Washing Machine,230,871.21,1.44,4.92
+Microwave Oven,230,811.0,0.25,2.13
+Geyser,230,2607.37,0.94,8.89
+Laptop/Computer,230,61.67,4.53,2.06
+Iron,230,1323.37,0.21,2.37
+Fan,230,83.32,6.22,17.01
+Air Conditioner,230,1595.89,5.27,46.39
+Refrigerator,230,280.74,24.0,8.61
+LED Bulb,230,11.06,5.53,6.04
+Television,230,124.62,3.84,3.92
+Washing Machine,230,726.39,1.44,3.16
+Microwave Oven,230,1195.3,0.17,2.46
+Geyser,230,3729.76,1.4,8.83
+Laptop/Computer,230,489.48,7.71,2.79
+Iron,230,1253.02,0.19,2.65
+Fan,230,75.46,6.12,15.36
+Air Conditioner,230,1577.44,4.58,42.28
+Refrigerator,230,165.68,24.0,9.97
+LED Bulb,230,8.77,5.53,7.16
+Television,230,101.4,4.15,4.59
+Washing Machine,230,503.17,1.63,3.21
+Microwave Oven,230,863.3,0.22,2.46
+Geyser,230,2953.56,0.79,9.66
+Laptop/Computer,230,216.51,4.25,2.06
+Iron,230,1201.1,0.24,2.69
+Fan,230,87.77,6.46,22.47
+Air Conditioner,230,1937.27,4.19,48.33
+Refrigerator,230,362.31,24.0,8.23
+LED Bulb,230,10.06,4.46,8.32
+Television,230,62.22,3.91,3.06
+Washing Machine,230,996.65,1.4,3.37
+Microwave Oven,230,974.32,0.17,2.83
+Geyser,230,4389.24,1.3,8.3
+Laptop/Computer,230,383.06,4.74,2.87
+Iron,230,1401.5,0.23,2.95
+Fan,230,80.56,6.32,21.45
+Air Conditioner,230,1947.93,4.37,48.22
+Refrigerator,230,651.89,24.0,8.0
+LED Bulb,230,10.93,4.7,9.06
+Television,230,112.03,4.77,4.25
+Washing Machine,230,785.24,1.72,3.19
+Microwave Oven,230,831.89,0.17,2.59
+Geyser,230,3915.94,1.38,9.5
+Laptop/Computer,230,237.49,5.65,2.69
+Iron,230,1950.06,0.36,2.37
