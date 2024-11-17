@@ -96,6 +96,36 @@ if os.path.exists(data_path):
     ax.legend()
     st.pyplot(fig)
 
+    # st.write("Solar Generation Over Time")
+    # fig, ax = plt.subplots()
+    # ax.plot(data.index, data['Solar_Generation'], label='Solar Generation', color='orange')
+    # ax.set_xlabel('Date')
+    # ax.set_ylabel('Solar Generation (kWh)')
+    # ax.legend()
+    # st.pyplot(fig)
+
+    # st.write("Other Energy Sources Over Time")
+    # fig, ax = plt.subplots()
+    # ax.plot(data.index, data['Other_Energy_Sources'], label='Other Energy Sources', color='green')
+    # ax.set_xlabel('Date')
+    # ax.set_ylabel('Other Energy Sources (kWh)')
+    # ax.legend()
+    # st.pyplot(fig)
+
+#     # Correlation heatmap
+#     st.write("Correlation Heatmap")
+#     corr = data.corr()
+#     fig, ax = plt.subplots()
+#     cax = ax.matshow(corr, cmap='coolwarm')
+#     fig.colorbar(cax)
+#     ax.set_xticks(range(len(corr.columns)))
+#     ax.set_yticks(range(len(corr.columns)))
+#     ax.set_xticklabels(corr.columns, rotation=90)
+#     ax.set_yticklabels(corr.columns)
+#     st.pyplot(fig)
+# else:
+#     st.error(f"Dataset not found at path: {data_path}")
+
 
 import nbformat # type: ignore
 
